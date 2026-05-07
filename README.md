@@ -83,9 +83,9 @@ This structure reflects how scalable content systems operate in real product env
 
 This layer enables *user understanding, onboarding, trust, and reduces friction within product experiences.*
 
-#### System Built for this Layer:
+#### System Built for this Layer: 
 
-👉 _**AI Product UX Writing System**_
+👉 [***AI Product UX Writing System***](https://github.com/PrineetKaur/Designing-Modern-Content-Systems/tree/main/01_AI%20Product%20UX%20Writing%20System)
 
 #### System Scope 
 
@@ -103,7 +103,7 @@ This layer helps *create consistency between in-product experiences and external
 
 #### System Built for this Layer:
 
-👉 _**Product Communication Governance System**_
+👉 [***Product Communication Governance System***](https://github.com/PrineetKaur/Designing-Modern-Content-Systems/tree/main/02_Product%20Communication%20Governance%20System)
 
 #### System Scope 
 
@@ -121,9 +121,9 @@ This layer helps *establish reusable standards, scalable systems, and operationa
 
 #### Systems Built for this Layer:
 
-👉 ***Content Audit + Fix System***
+👉 [***Content Audit + Fix System***](https://github.com/PrineetKaur/Designing-Modern-Content-Systems/tree/main/03_Content%20Audit%20%2B%20Fix%20System)
 
-👉 ***Scalable Content Design System***
+👉 [***Scalable Content Design System***](https://github.com/PrineetKaur/Designing-Modern-Content-Systems/tree/main/04_Scalable%20Content%20Design%20System)
 
 #### Systems Scope 
 
@@ -141,7 +141,7 @@ This layer helps *scaling content quality and consistency across teams, workflow
 
 #### System Built for this Layer:
 
-👉 ***Localization + Content Workflow System***
+👉 [***Localization + Content Workflow System***](https://github.com/PrineetKaur/Designing-Modern-Content-Systems/tree/main/05_Localization%20%2B%20Content%20Workflow%20System)
 
 #### System Scope 
 
@@ -158,9 +158,9 @@ This layer focuses on *using AI to scale content quality, governance, and operat
 
 #### Systems Built for this Layer:
 
-👉 ***AI Tone Consistency Checker***
+👉 [***AI Tone Consistency Checker***](https://github.com/PrineetKaur/Designing-Modern-Content-Systems/tree/main/06_AI%20Tone%20Consistency%20Checker)
 
-👉 ***AI Error Message Generator***
+👉 [***AI Error Message Generator***](https://github.com/PrineetKaur/Designing-Modern-Content-Systems/tree/main/07_AI%20Error%20Message%20Generator)
 
 #### System Scope 
 
