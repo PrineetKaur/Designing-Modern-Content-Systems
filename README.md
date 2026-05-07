@@ -60,8 +60,8 @@ Each layer represents a different stage of content system maturity:
 
 - **Layer 1** `in-product-experience` 
 - **Layer 2** `product-communications`
-- **Layer 3** `governance-systems` 
-- **Layer 4** `localization-and-workflow-operations` 
+- **Layer 3** `shared principles-and-governance` 
+- **Layer 4** `localization-and-operations` 
 - **Layer 5** `AI-content-infrastructure`
 
 Further, each of the content systems within these layers follows a consistent structure and includes:
