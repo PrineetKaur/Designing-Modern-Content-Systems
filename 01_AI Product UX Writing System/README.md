@@ -1,7 +1,6 @@
 # AI Product UX Writing System
 
-### Subtitle
-In-Product Experience Layer
+### Content Layer: In-Product Experience
 
 ---
 
