@@ -69,8 +69,3 @@ This system creates operational frameworks for:
 
 This system extends the In-Product Experience Layer and connects product UX with operational communication systems.
 
----
-
-## Portfolio Case Study
-
-Read full case study → [Coming Soon]
