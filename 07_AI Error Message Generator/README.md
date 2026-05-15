@@ -70,9 +70,3 @@ This system enables:
 ## Related Systems
 
 This system operationalizes governance, UX clarity, and AI-assisted messaging infrastructure across complex product ecosystems.
-
----
-
-## Portfolio Case Study
-
-Read full case study → [Coming Soon]
