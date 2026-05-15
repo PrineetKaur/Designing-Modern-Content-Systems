@@ -71,8 +71,3 @@ This system enables:
 
 This system extends governance and localization infrastructure through AI-assisted operational scalability.
 
----
-
-## Portfolio Case Study
-
-Read full case study → [Coming Soon]
