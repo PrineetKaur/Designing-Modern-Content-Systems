@@ -69,9 +69,3 @@ This system provides frameworks for:
 ## Related Systems
 
 This system supports governance, localization, and AI quality infrastructure layers.
-
----
-
-## Portfolio Case Study
-
-Read full case study → [Coming Soon]
