@@ -14,17 +14,7 @@ The goal is to scale editorial quality without relying entirely on manual review
 
 ---
 
-## Problem
 
-As organizations scale content operations, maintaining consistency becomes increasingly difficult due to:
-
-* tone drift
-* inconsistent communication patterns
-* fragmented voice systems
-* operational scaling challenges
-* cross-channel inconsistencies
-
-Manual review processes alone cannot scale effectively across large systems.
 
 ---
 
