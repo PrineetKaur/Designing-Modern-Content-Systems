@@ -69,8 +69,3 @@ This system creates operational frameworks for:
 
 This system operationalizes governance frameworks established in earlier maturity layers.
 
----
-
-## Portfolio Case Study
-
-Read full case study → [Coming Soon]
