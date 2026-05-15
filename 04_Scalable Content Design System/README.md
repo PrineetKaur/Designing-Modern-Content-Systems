@@ -68,10 +68,5 @@ This system establishes scalable frameworks for:
 
 ## Related Systems
 
-This system acts as foundational infrastructure for localization and AI-assisted governance systems.
+This system serves as foundational infrastructure for localization and AI-assisted governance.
 
----
-
-## Portfolio Case Study
-
-Read full case study → [Coming Soon]
