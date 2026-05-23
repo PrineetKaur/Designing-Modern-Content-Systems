@@ -3,70 +3,91 @@
 ### Content Layer: AI Content Infrastructure
 
 ---
+# Overview
 
-## Overview
+The AI Error Message Generator is an AI-assisted UX writing and recovery guidance system designed to generate scalable, trustworthy, and context-aware product error messaging across complex digital ecosystems.
 
-An AI-assisted messaging system designed to generate scalable, context-aware, and user-centered error communication across digital product ecosystems.
+This system simulates how mature organizations operationalize AI-assisted UX writing infrastructure across:
 
-This system combines UX writing principles, structured recovery guidance, AI-assisted generation, and governance frameworks to improve error handling experiences.
+- product interfaces
+- onboarding workflows
+- AI-powered features
+- operational systems
+- enterprise tooling
+- localization pipelines
+- escalation workflows
+- developer-content collaboration
 
-The goal is to ensure error messaging remains clear, trustworthy, and operationally scalable across products and workflows.
-
----
-
-## Problem
-
-Error messaging in complex systems is often:
-
-* inconsistent
-* overly technical
-* disconnected from user intent
-* difficult to scale
-* lacking recovery guidance
-
-As products and workflows grow, maintaining high-quality error communication becomes operationally challenging.
+The system transforms error messaging from fragmented interface copy into structured recovery infrastructure.
 
 ---
 
-## What this System Does
+# Problem
 
-This system enables:
+As organizations scale products and AI-assisted workflows, error messaging becomes inconsistent due to:
 
-* AI-assisted error generation
-* recovery-focused UX writing
-* structured fallback messaging
-* context-aware guidance
-* scalable messaging patterns
-* developer/content collaboration workflows
+- fragmented engineering ownership
+- duplicated UX patterns
+- weak recovery guidance
+- inconsistent escalation behavior
+- poor AI transparency
+- localization instability
+- missing operational context
 
----
+This creates:
 
-## Included Files
-
-* `system.md`
-  → messaging principles, governance rules, and recovery frameworks
-
-* `prompts.md`
-  → AI generation prompts and structured messaging workflows
-
-* `examples.md`
-  → before/after messaging examples and edge-case scenarios
-
-* `usage.md`
-  → how engineering, product, and content teams operationalize the system
+- user frustration
+- workflow abandonment
+- increased support volume
+- enterprise trust erosion
+- onboarding failure
+- AI usability confusion
 
 ---
 
-## Example Focus Areas
+# What This System Does
 
-* recovery guidance
-* contextual messaging
-* AI-assisted UX writing
-* structured fallback systems
-* operational consistency
+This system helps organizations:
+
+- generate scalable error messaging
+- operationalize recovery guidance
+- standardize AI disclosure behavior
+- align engineering and content workflows
+- improve error explainability
+- support localization-ready messaging
+- create reusable recovery patterns
+- improve trust during failure states
+
+---
+# Core Components
+
+| Component | Purpose |
+|---|---|
+| Error Generation Engine | Generate contextual error messaging |
+| Recovery Guidance Framework | Help users continue workflows |
+| AI Transparency System | Explain AI-assisted failures |
+| Severity Classification Model | Align messaging to operational risk |
+| Localization-Ready Templates | Improve multilingual scalability |
+| Escalation Guidance Layer | Support operational continuity |
+| Developer Integration Framework | Align engineering and content systems |
 
 ---
 
-## Related Systems
+# Files Included
 
-This system operationalizes governance, UX clarity, and AI-assisted messaging infrastructure across complex product ecosystems.
+| File | Purpose |
+|---|---|
+| system.md | Error governance and recovery infrastructure |
+| prompts.md | AI generation prompts and logic |
+| examples.md | Realistic recovery and error scenarios |
+| usage.md | Workflow implementation guidance |
+
+---
+
+# Maturity Layer Positioning
+
+This system belongs to:
+
+## AI Content Infrastructure Layer
+
+It establishes scalable AI-assisted recovery and error communication infrastructure required for trustworthy AI-enabled product ecosystems.
