@@ -4,76 +4,133 @@
 
 ---
 
-## Overview
+# Overview
 
-A scalable UX writing and AI-assisted interaction system designed to improve clarity, trust, onboarding, and user understanding inside complex digital products.
+The AI Product UX Writing System is a scalable content framework designed to improve interaction clarity, trust, and usability across AI-powered product experiences.
 
-This system focuses on creating structured product experiences through consistent UX writing patterns, onboarding flows, empty states, prompts, and error handling strategies.
+This system simulates how mature product organizations operationalize UX writing standards for AI-assisted workflows.
 
-Rather than treating UX writing as isolated interface copy, the system approaches content as a core product experience layer that shapes user confidence, decision-making, and task completion.
-
----
-
-## Problem
-
-Modern products often suffer from:
-
-* unclear onboarding
-* inconsistent UX writing
-* confusing AI interactions
-* poor error recovery
-* fragmented trust patterns
-
-As products scale, these issues create friction, increase support dependency, and reduce user confidence.
+Rather than functioning as a static microcopy library, the system establishes reusable interaction principles, trust frameworks, error handling patterns, and AI communication standards across product surfaces.
 
 ---
 
-## What this System Does
+# Problem
 
-This system establishes reusable UX writing and interaction frameworks for:
+As organizations scale AI-assisted product experiences, UX writing often becomes fragmented across:
 
-* onboarding flows
-* AI-assisted prompts
-* empty states
-* trust messaging
-* user guidance
-* recovery flows
-* contextual product communication
+- onboarding flows
+- AI copilots
+- recommendations
+- workflow automation
+- error handling
+- empty states
+- conversational interfaces
 
----
+This creates:
 
-## Included Files
+- inconsistent user expectations
+- trust erosion
+- unclear AI behavior
+- fragmented product experiences
+- increased support burden
+- duplicated operational effort
 
-* `system.md`
-  → UX principles, interaction frameworks, trust patterns, and content logic
-
-* `prompts.md`
-  → AI prompt structures and conversational interaction patterns
-
-* `examples.md`
-  → realistic UI examples and before/after improvements
-
-* `usage.md`
-  → how product, design, and engineering teams operationalize the system
+The AI Product UX Writing System solves these issues through reusable interaction frameworks and scalable governance.
 
 ---
 
-## Example Focus Areas
+# What This System Does
 
-* AI prompt clarity
-* onboarding friction reduction
-* contextual guidance
-* trust-building UX patterns
-* structured error handling
+This system helps teams:
 
----
-
-## Related Systems
-
-This system serves as the foundational layer for all governance, communication, localization, and AI infrastructure systems in this repository.
+- standardize AI interaction language
+- reduce ambiguity in AI workflows
+- improve onboarding clarity
+- create reusable UX writing patterns
+- establish trust and transparency standards
+- define scalable error recovery models
+- operationalize AI content governance
 
 ---
 
-## Portfolio Case Study
+# Core Components
 
-Read full case study → [Coming Soon]
+| Component | Purpose |
+|---|---|
+| AI Prompt Patterns | Standardized AI interaction framing |
+| Trust Messaging Framework | Explainability and transparency patterns |
+| Error Recovery System | Structured fallback and recovery guidance |
+| UX Writing Standards | Consistent interaction language |
+| Empty State Framework | Guidance during low-information states |
+| AI Disclosure Patterns | Clarify automation boundaries |
+| Tone Logic | Consistent product voice behaviors |
+
+---
+
+# Example Use Cases
+
+## AI Copilot
+
+Before:
+
+> Ask anything.
+
+After:
+
+> Describe the workflow you want to automate. The assistant may suggest steps, but you’ll review changes before publishing.
+
+---
+## AI Error Handling
+
+Before:
+
+> Something went wrong.
+
+After:
+
+> We couldn’t generate a recommendation because the dataset is incomplete. Try selecting a longer date range or upload additional records.
+
+---
+
+## AI Uncertainty Pattern
+
+Before:
+
+> Recommended action available.
+
+After:
+
+> This recommendation is based on recent workflow activity and may not reflect manual changes made outside the platform.
+
+---
+# System Goals
+
+The system is designed to:
+
+- improve user trust
+- reduce cognitive friction
+- improve AI feature adoption
+- increase consistency across product teams
+- support future governance systems
+- enable scalable AI content operations
+
+---
+
+# Files Included
+
+| File | Purpose |
+|---|---|
+| system.md | Strategic and operational framework |
+| prompts.md | AI UX writing prompt infrastructure |
+| examples.md | Realistic product scenarios |
+| usage.md | Team workflows and implementation guidance |
+
+---
+
+# Maturity Layer Positioning
+
+This system belongs to:
+
+## In-Product Experience Layer
+
+It establishes the foundational interaction clarity and trust infrastructure required before organizations can scale governance, localization, and AI-assisted content systems.
