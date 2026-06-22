@@ -354,7 +354,7 @@ Teams should monitor for the following failure patterns.
 
 ---
 
-# Operational Workflow
+# How to Use These Prompts
 
 ## Step 1 — Define Interaction Context
 
@@ -386,29 +386,7 @@ Teams identify:
 
 Teams generate initial outputs using structured prompts.
 
----
-
-## Step 4 — Human Review
-
-Human reviewers validate:
-
-* clarity
-* compliance
-* accessibility
-* tone
-* trust implications
-* terminology consistency
-
----
-
-## Step 5 — Governance Approval
-
-Approved content is aligned to:
-
-* design systems
-* content governance standards
-* localization requirements
-* AI disclosure policies
+*For further full team workflow guidance, refer to usage.md.*
 
 ---
 
