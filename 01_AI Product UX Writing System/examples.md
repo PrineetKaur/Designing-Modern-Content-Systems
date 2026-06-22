@@ -1,4 +1,4 @@
-# AI Product UX Writing System — Examples
+# AI Product UX Writing System Examples
 
 ### Content Layer: In-Product Experience
 
