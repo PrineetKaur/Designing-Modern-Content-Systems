@@ -34,7 +34,7 @@ The prompt system is structured around five operational goals:
 
 ---
 
-# Prompt 1 — UX Clarity Evaluation
+# Prompt 1 — UX Writing Clarity Evaluation
 
 ## Objective
 
