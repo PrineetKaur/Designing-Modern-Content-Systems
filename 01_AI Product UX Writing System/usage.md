@@ -60,6 +60,8 @@ Teams determine:
 | Automated | system-generated actions |
 | Conversational | chat-based interaction |
 
+*Once the interaction type is identified, teams can refer to prompts.md to select the appropriate prompt category.*
+
 ---
 
 ## Step 3 — Apply Trust Framework
