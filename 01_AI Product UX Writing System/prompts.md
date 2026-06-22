@@ -34,7 +34,7 @@ The prompt system is structured around five operational goals:
 
 ---
 
-# Prompt 1 — AI Prompt Clarity Evaluation
+# Prompt 1 — UX Clarity Evaluation
 
 ## Objective
 
@@ -99,7 +99,7 @@ Generate a user-centered AI error message.
 
 Requirements:
 - explain what failed
-- explain likely cause
+- explain the likely cause
 - provide recovery guidance
 - reduce user anxiety
 - avoid blaming language
