@@ -386,7 +386,7 @@ Teams identify:
 
 Teams generate initial outputs using structured prompts.
 
-*For further full team workflow guidance, refer to usage.md.*
+#### 👉 For further full team workflow guidance, refer to ```usage.md```.
 
 ---
 
