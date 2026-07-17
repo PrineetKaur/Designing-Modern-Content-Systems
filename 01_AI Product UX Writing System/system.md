@@ -4,7 +4,7 @@
 
 ---
 
-# System Purpose
+## System Purpose
 
 The AI Product UX Writing System establishes scalable interaction clarity standards for AI-powered product experiences.
 
@@ -20,7 +20,7 @@ This system treats UX writing as operational product infrastructure rather than 
 
 ---
 
-# Organizational Scenario
+## Organizational Scenario
 
 A mid-sized B2B SaaS company is embedding AI-assisted workflows across its platform.
 
@@ -37,9 +37,9 @@ The AI Product UX Writing System provides a reusable foundation for AI interacti
 
 ---
 
-# System Principles
+## System Principles
 
-## 1. Explain Before Automating
+### 1. Explain Before Automating
 
 Users should understand:
 
@@ -57,7 +57,7 @@ Improved Example:
 
 ---
 
-## 2. Reduce Cognitive Ambiguity
+### 2. Reduce Cognitive Ambiguity
 
 Users should never guess:
 
@@ -68,7 +68,7 @@ Users should never guess:
 
 ---
 
-## 3. Communicate System Boundaries
+### 3. Communicate System Boundaries
 
 The system should explicitly clarify:
 - AI limitations
@@ -79,7 +79,7 @@ The system should explicitly clarify:
 
 ---
 
-## 4. Design for Recovery
+### 4. Design for Recovery
 
 Errors must support:
 
@@ -94,7 +94,7 @@ The goal is not simply error notification.
 The goal is workflow continuation.
 
 ---
-## 5. Preserve User Agency
+### 5. Preserve User Agency
 
 AI should support decision-making.
 
@@ -107,16 +107,16 @@ It should not obscure:
 
 ---
 
-# Governance Logic
+## Governance Logic
 
-## Governance Objective
+### Governance Objective
 
 Maintain interaction consistency across all AI-powered product surfaces.
 
 ---
-## Governance Rules
+### Governance Rules
 
-### Rule 1 — AI Actions Must Be Contextualized
+#### Rule 1 — AI Actions Must Be Contextualized
 
 All AI-generated actions must explain:
 
@@ -126,7 +126,7 @@ All AI-generated actions must explain:
 
 ---
 
-### Rule 2 — Confidence Must Be Communicated
+#### Rule 2 — Confidence Must Be Communicated
 
 The system should avoid false certainty.
 
@@ -139,7 +139,7 @@ Use:
 > This recommendation is based on recent workflow activity.
 
 ---
-### Rule 3 — Error States Require Recovery Paths
+#### Rule 3 — Error States Require Recovery Paths
 
 Every error must include:
 
@@ -149,7 +149,7 @@ Every error must include:
 
 ---
 
-### Rule 4 — Terminology Must Remain Consistent
+#### Rule 4 — Terminology Must Remain Consistent
 
 Shared terms must remain stable across:
 
@@ -160,7 +160,7 @@ Shared terms must remain stable across:
 - support documentation
 
 ---
-### Rule 5 — AI Disclosure Must Be Visible
+#### Rule 5 — AI Disclosure Must Be Visible
 
 Users should always understand when:
 
@@ -170,9 +170,9 @@ Users should always understand when:
 
 ---
 
-# UX Writing Framework
+## UX Writing Framework
 
-## Framework Structure
+### Framework Structure
 
 | Layer | Purpose |
 |---|---|
@@ -183,7 +183,7 @@ Users should always understand when:
 | Reinforcement | Confirm successful progress |
 
 ---
-# AI Interaction Taxonomy
+## AI Interaction Taxonomy
 
 | Interaction Type | Definition |
 |---|---|
@@ -195,9 +195,9 @@ Users should always understand when:
 
 ---
 
-# Tone System
+## Tone System
 
-## Tone Characteristics
+### Tone Characteristics
 | Trait | Description |
 |---|---|
 | Clear | Direct and easy to understand |
@@ -208,9 +208,9 @@ Users should always understand when:
 
 ---
 
-# Trust Messaging Framework
+## Trust Messaging Framework
 
-## Trust Pattern Types
+### Trust Pattern Types
 
 | Pattern | Purpose |
 |---|---|
@@ -221,9 +221,9 @@ Users should always understand when:
 | Automation Boundaries | Clarify limitations |
 
 ---
-# Error Recovery Model
+## Error Recovery Model
 
-## Error Structure
+### Error Structure
 
 Each error should include:
 
@@ -234,7 +234,7 @@ Each error should include:
 
 ---
 
-## Example
+### Example
 
 Bad:
 
@@ -245,7 +245,7 @@ Improved:
 > We couldn’t generate a summary because the uploaded file exceeds the current size limit. Upload a smaller file or split the document into sections.
 
 ---
-# Scalability Considerations
+## Scalability Considerations
 
 This system is intentionally designed to support future maturity layers.
 
@@ -261,9 +261,9 @@ Without foundational consistency at Layer 1, later AI governance systems become 
 
 ---
 
-# Overall Impact
+## Overall Impact
 
-## Product Impact
+### Product Impact
 - improved onboarding clarity
 - higher AI feature adoption
 - reduced workflow confusion
@@ -271,7 +271,7 @@ Without foundational consistency at Layer 1, later AI governance systems become 
 
 ---
 
-## Operational Impact
+### Operational Impact
 
 - reduced duplicated UX writing work
 - easier onboarding for product teams
@@ -280,7 +280,7 @@ Without foundational consistency at Layer 1, later AI governance systems become 
 
 ---
 
-## Business Impact
+### Business Impact
 
 - reduced support costs
 - improved enterprise trust
