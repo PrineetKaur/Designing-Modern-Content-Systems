@@ -4,7 +4,7 @@
 
 ---
 
-# Overview
+## Overview
 
 The AI Product UX Writing System is a scalable content framework designed to improve interaction clarity, trust, and usability across AI-powered product experiences.
 
@@ -14,7 +14,7 @@ Rather than functioning as a static microcopy library, the system establishes re
 
 ---
 
-# Problem
+## Problem
 
 As organizations scale AI-assisted product experiences, UX writing often becomes fragmented across:
 
@@ -39,7 +39,7 @@ The AI Product UX Writing System solves these issues through reusable interactio
 
 ---
 
-# What This System Does
+## What This System Does
 
 This system helps teams:
 
@@ -53,7 +53,7 @@ This system helps teams:
 
 ---
 
-# Core Components
+## Core Components
 
 | Component | Purpose |
 |---|---|
@@ -67,9 +67,9 @@ This system helps teams:
 
 ---
 
-# Example Use Cases
+## Example Use Cases
 
-## AI Copilot
+### AI Copilot
 
 Before:
 
@@ -80,7 +80,7 @@ After:
 > Describe the workflow you want to automate. The assistant may suggest steps, but you’ll review changes before publishing.
 
 ---
-## AI Error Handling
+### AI Error Handling
 
 Before:
 
@@ -92,7 +92,7 @@ After:
 
 ---
 
-## AI Uncertainty Pattern
+### AI Uncertainty Pattern
 
 Before:
 
@@ -103,7 +103,7 @@ After:
 > This recommendation is based on recent workflow activity and may not reflect manual changes made outside the platform.
 
 ---
-# System Goals
+## System Goals
 
 The system is designed to:
 
@@ -116,7 +116,7 @@ The system is designed to:
 
 ---
 
-# Files Included
+## Files Included
 
 | File | Purpose |
 |---|---|
@@ -127,10 +127,10 @@ The system is designed to:
 
 ---
 
-# Maturity Layer Positioning
+## Maturity Layer Positioning
 
 This system belongs to:
 
-## In-Product Experience Layer
+### In-Product Experience Layer
 
 It establishes the foundational interaction clarity and trust infrastructure required before organizations can scale governance, localization, and AI-assisted content systems.
