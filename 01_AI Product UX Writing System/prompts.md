@@ -4,7 +4,7 @@
 
 ---
 
-# Purpose
+## Purpose
 
 These prompts support scalable AI-assisted UX writing workflows.
 
@@ -20,7 +20,7 @@ This document simulates how mature product organizations operationalize AI-assis
 
 ---
 
-# Prompt Architecture
+## Prompt Architecture
 
 The prompt system is structured around five operational goals:
 
@@ -34,9 +34,9 @@ The prompt system is structured around five operational goals:
 
 ---
 
-# Prompt 1 — UX Writing Clarity Evaluation
+## Prompt 1 — UX Writing Clarity Evaluation
 
-## Objective
+### Objective
 
 Evaluate whether AI interaction copy clearly communicates:
 
@@ -48,7 +48,7 @@ Evaluate whether AI interaction copy clearly communicates:
 
 ---
 
-## Prompt
+### Prompt
 
 ```plaintext
 You are a senior UX content designer evaluating AI-assisted product interactions.
@@ -82,15 +82,15 @@ UX Copy:
 
 ---
 
-# Prompt 2 — AI Error Message Generator
+## Prompt 2 — AI Error Message Generator
 
-## Objective
+### Objective
 
 Generate actionable AI-related error states.
 
 ---
 
-## Prompt
+### Prompt
 
 ```plaintext
 You are a senior product content designer.
@@ -117,15 +117,15 @@ User Goal:
 
 ---
 
-# Prompt 3 — AI Trust Pattern Generator
+## Prompt 3 — AI Trust Pattern Generator
 
-## Objective
+### Objective
 
 Generate trust-supportive AI disclosure patterns.
 
 ---
 
-## Prompt
+### Prompt
 
 ```plaintext
 You are designing trust messaging for an AI-assisted workflow.
@@ -143,15 +143,15 @@ Workflow Context:
 
 ---
 
-# Prompt 4 — Empty State UX Generator
+## Prompt 4 — Empty State UX Generator
 
-## Objective
+### Objective
 
 Create actionable empty states.
 
 ---
 
-## Prompt
+### Prompt
 
 ```plaintext
 You are generating empty state UX copy for an AI-powered product.
@@ -168,15 +168,15 @@ Context:
 
 ---
 
-# Prompt 5 — AI Onboarding Flow Generator
+## Prompt 5 — AI Onboarding Flow Generator
 
-## Objective
+### Objective
 
 Generate onboarding guidance for AI-powered product experiences.
 
 ---
 
-## Prompt
+### Prompt
 
 ```plaintext
 You are a senior UX content strategist.
@@ -203,15 +203,15 @@ Workflow Goal:
 
 ---
 
-# Prompt 6 — AI Uncertainty Messaging Generator
+## Prompt 6 — AI Uncertainty Messaging Generator
 
-## Objective
+### Objective
 
 Create UX messaging that responsibly communicates uncertainty.
 
 ---
 
-## Prompt
+### Prompt
 
 ```plaintext
 You are designing AI interaction messaging for situations where outputs may be incomplete, variable, or confidence-limited.
@@ -229,15 +229,15 @@ Scenario:
 
 ---
 
-# Prompt 7 — AI Workflow Recovery Assistant
+## Prompt 7 — AI Workflow Recovery Assistant
 
-## Objective
+### Objective
 
 Generate recovery-oriented UX messaging during workflow interruptions.
 
 ---
 
-## Prompt
+### Prompt
 
 ```plaintext
 You are a senior product UX writer.
@@ -261,15 +261,15 @@ Failure Scenario:
 
 ---
 
-# Prompt 8 — Terminology Consistency Validator
+## Prompt 8 — Terminology Consistency Validator
 
-## Objective
+### Objective
 
 Identify inconsistent terminology across AI product experiences.
 
 ---
 
-## Prompt
+### Prompt
 
 ```plaintext
 You are a UX content governance specialist.
@@ -293,9 +293,9 @@ Content:
 
 ---
 
-# Prompt Governance Rules
+## Prompt Governance Rules
 
-## Never Allow
+### Never Allow
 
 * fake certainty
 * misleading automation claims
@@ -308,7 +308,7 @@ Content:
 
 ---
 
-# Preferred Behaviors
+## Preferred Behaviors
 
 | Behavior            | Goal                     |
 | ------------------- | ------------------------ |
@@ -322,7 +322,7 @@ Content:
 
 ---
 
-# AI UX Writing Evaluation Matrix
+## AI UX Writing Evaluation Matrix
 
 Generated UX content should be evaluated against:
 
@@ -339,7 +339,7 @@ Generated UX content should be evaluated against:
 
 ---
 
-# Prompt Failure Modes
+## Prompt Failure Modes
 
 Teams should monitor for the following failure patterns.
 
@@ -354,9 +354,9 @@ Teams should monitor for the following failure patterns.
 
 ---
 
-# How to Use These Prompts
+## How to Use These Prompts
 
-## Step 1 — Define Interaction Context
+### Step 1 — Define Interaction Context
 
 Teams identify:
 
@@ -368,7 +368,7 @@ Teams identify:
 
 ---
 
-## Step 2 — Select Prompt Category
+### Step 2 — Select Prompt Category
 
 | Prompt Category        | Use Case                   |
 | ---------------------- | -------------------------- |
@@ -382,7 +382,7 @@ Teams identify:
 
 ---
 
-## Step 3 — Generate Draft Content
+### Step 3 — Generate Draft Content
 
 Teams generate initial outputs using structured prompts.
 
@@ -390,7 +390,7 @@ Teams generate initial outputs using structured prompts.
 
 ---
 
-# Cross-Layer Maturity Alignment
+## Cross-Layer Maturity Alignment
 
 This prompt infrastructure supports future repository layers, including:
 
