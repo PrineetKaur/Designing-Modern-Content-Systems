@@ -4,7 +4,7 @@
 
 ---
 
-# How to Read These Examples
+## How to Read These Examples
 
 Each example follows this structure:
 
@@ -18,7 +18,7 @@ Each example follows this structure:
 
 ---
 
-# Example 1 — AI Copilot Entry Point
+## Example 1 — AI Copilot Entry Point
 
 **Scenario:** A B2B project management platform has launched an AI copilot that helps operations managers automate repetitive task assignments. This is the placeholder copy shown inside the copilot input field when a user opens it for the first time.
 
@@ -44,7 +44,7 @@ The original provides the user with no frame of reference for what the AI can or
 
 ---
 
-# Example 2 — AI Recommendation Transparency
+## Example 2 — AI Recommendation Transparency
 
 **Scenario:** A B2B analytics platform surfaces a recommended pricing tier to a sales rep based on a customer's usage data. The recommendation appears in a sidebar card during account review.
 
@@ -70,7 +70,7 @@ The original creates a black-box recommendation with no source, no confidence fr
 
 ---
 
-# Example 3 — AI Error Recovery
+## Example 3 — AI Error Recovery
 
 **Scenario:** A user on a B2B content platform uploads an Excel file to an AI summarization feature that only supports PDF and DOCX. It's their first time using the feature. The error message appears immediately after upload.
 
@@ -96,7 +96,7 @@ The original tells the user nothing actionable (no cause, no next step, no path 
 
 ---
 
-# Example 4 — Empty State Guidance
+## Example 4 — Empty State Guidance
 
 **Scenario:** A new user lands on the Automations dashboard of a B2B operations platform for the first time. They have no automations yet. This is the state they see before any interaction has occurred.
 
@@ -122,7 +122,7 @@ The original is a dead end — it confirms an empty state but offers no directio
 
 ---
 
-# Example 5 — AI Disclosure After Automated Action
+## Example 5 — AI Disclosure After Automated Action
 
 **Scenario:** A marketing team uses an AI feature to generate a campaign draft from uploaded customer engagement data. The draft is ready, and the user lands on a review screen. The confirmation message appears at the top of the screen.
 
@@ -148,7 +148,7 @@ The original reads like a success state, which may prompt a user to publish with
 
 ---
 
-# Example 6 — AI Uncertainty Communication
+## Example 6 — AI Uncertainty Communication
 
 **Scenario:** A B2B logistics platform uses AI to predict the most efficient shipping route for a customer order. The prediction is based on historical data, but current conditions are unavailable. The message appears alongside the suggested route in the dispatch interface.
 
@@ -174,7 +174,7 @@ The original implies a certainty the system cannot actually provide. In a logist
 
 ---
 
-# Example 7 — Escalation Guidance
+## Example 7 — Escalation Guidance
 
 **Scenario:** A user on a B2B HR platform attempts to generate a compliance report. Midway through generation, the process fails because the user's workspace permissions were changed by an admin during the session. The error appears on the report generation screen.
 
@@ -200,6 +200,6 @@ The original gives the user nothing to work with — no cause, no reassurance ab
 
 ---
 
-# Cross-System Design Note
+## Cross-System Design Note
 
 These examples demonstrate a consistent pattern: the gap between the two versions is never just about word choice. It is about whether the content is doing operational work, orienting the user, setting expectations, preserving agency, and enabling recovery. That is what distinguishes a mature UX writing system from a style guide.
