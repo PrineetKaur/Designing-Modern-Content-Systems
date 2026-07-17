@@ -4,7 +4,7 @@
 
 ---
 
-# Purpose
+## Purpose
 
 This document explains how product teams operationalize the AI Product UX Writing System.
 
@@ -19,7 +19,7 @@ The system is designed for cross-functional collaboration across:
 
 ---
 
-# When Teams Should Use This System
+## When Teams Should Use This System
 
 Use this system when designing:
 
@@ -36,9 +36,9 @@ Use this system when designing:
 
 ---
 
-# Workflow Integration
+## Workflow Integration
 
-## Step 1 — Define User Intent
+### Step 1 — Define User Intent
 
 Teams identify:
 
@@ -48,7 +48,7 @@ Teams identify:
 - potential trust risks
 
 ---
-## Step 2 — Select Interaction Pattern
+### Step 2 — Select Interaction Pattern
 
 Teams determine:
 
@@ -64,7 +64,7 @@ Teams determine:
 
 ---
 
-## Step 3 — Apply Trust Framework
+### Step 3 — Apply Trust Framework
 
 Teams ensure:
 
@@ -75,7 +75,7 @@ Teams ensure:
 
 ---
 
-## Step 4 — Validate Terminology
+### Step 4 — Validate Terminology
 
 Content should align with:
 
@@ -85,7 +85,7 @@ Content should align with:
 
 ---
 
-## Step 5 — Review Edge Cases
+### Step 5 — Review Edge Cases
 
 Teams review:
 
@@ -96,7 +96,7 @@ Teams review:
 
 ---
 
-# Collaboration Model
+## Collaboration Model
 
 | Team | Responsibility |
 |---|---|
@@ -108,7 +108,7 @@ Teams review:
 | Support | escalation feedback |
 
 ---
-# Operational Review Checklist
+## Operational Review Checklist
 
 Before launch, teams should verify:
 
@@ -121,9 +121,9 @@ Before launch, teams should verify:
 
 ---
 
-# Anti-Patterns
+## Anti-Patterns
 
-## Avoid Vague AI Messaging
+### Avoid Vague AI Messaging
 
 Bad:
 
@@ -131,7 +131,7 @@ Bad:
 
 ---
 
-## Avoid False Certainty
+### Avoid False Certainty
 
 Bad:
 
@@ -139,7 +139,7 @@ Bad:
 
 ---
 
-## Avoid Dead-End Errors
+### Avoid Dead-End Errors
 
 Bad:
 
@@ -147,7 +147,7 @@ Bad:
 
 ---
 
-## Avoid Hidden Automation
+### Avoid Hidden Automation
 
 Bad:
 
@@ -161,7 +161,7 @@ Without explaining:
 
 ---
 
-# Success Indicators
+## Success Indicators
 The system is working effectively when:
 
 - support tickets decrease
@@ -173,7 +173,7 @@ The system is working effectively when:
 
 ---
 
-# Relationship to Future Layers
+## Relationship to Future Layers
 
 This Layer 1 system supports future maturity systems, including:
 
