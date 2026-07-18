@@ -4,7 +4,7 @@
 
 ---
 
-# System Purpose
+## System Purpose
 
 The Product Communication Governance System establishes reusable communication standards across customer-facing operational messaging.
 
@@ -20,7 +20,7 @@ This system treats communication as operational infrastructure rather than isola
 
 ---
 
-# Organizational Scenario
+## Organizational Scenario
 
 A growing enterprise SaaS company operates across:
 
@@ -43,9 +43,9 @@ The Product Communication Governance System establishes operational consistency 
 
 ---
 
-# Communication Principles
+## Communication Principles
 
-## 1. Communication Must Reflect Product Reality
+### 1. Communication Must Reflect Product Reality
 
 Customer communication should accurately represent:
 
@@ -65,7 +65,7 @@ Use:
 
 ---
 
-## 2. Urgency Must Match Actual Risk
+### 2. Urgency Must Match Actual Risk
 
 Communication severity should align with:
 
@@ -79,7 +79,8 @@ Overstating urgency reduces trust.
 Understating urgency increases operational confusion.
 
 ---
-## 3. Customers Should Understand Next Steps
+
+### 3. Customers Should Understand Next Steps
 
 Every operational communication should clarify:
 
@@ -91,7 +92,7 @@ Every operational communication should clarify:
 
 ---
 
-## 4. Cross-Channel Consistency Is Mandatory
+### 4. Cross-Channel Consistency Is Mandatory
 
 Terminology, tone, and behavioral framing must remain consistent across:
 
@@ -105,7 +106,7 @@ Terminology, tone, and behavioral framing must remain consistent across:
 
 ---
 
-## 5. Transparency Builds Long-Term Trust
+### 5. Transparency Builds Long-Term Trust
 
 Operational issues should be communicated clearly without:
 
@@ -116,15 +117,13 @@ Operational issues should be communicated clearly without:
 
 ---
 
-# Governance Structure
+## Governance Structure
 
-## Governance Objective
+### Governance Objective
 
 Ensure consistent, scalable communication standards across all customer-facing operational messaging.
 
----
-
-## Governance Layers
+### Governance Layers
 
 | Layer | Responsibility |
 |---|---|
@@ -136,9 +135,10 @@ Ensure consistent, scalable communication standards across all customer-facing o
 | Engineering | system-triggered messaging logic |
 
 ---
-# Communication Taxonomy
 
-## Communication Categories
+## Communication Taxonomy
+
+### Communication Categories
 
 | Category | Purpose |
 |---|---|
@@ -153,9 +153,34 @@ Ensure consistent, scalable communication standards across all customer-facing o
 
 ---
 
-# Communication Severity Framework
+## Lifecycle Messaging Framework
 
-## Severity Levels
+### Lifecycle Message Structure
+
+Each lifecycle message (onboarding, adoption milestones, feature discovery) should include:
+
+1. Where the customer is in their journey
+2. The specific next action that drives adoption
+3. Why that action matters, in terms of real product value
+4. A signpost to further help if the action isn't self-explanatory
+
+Lifecycle messaging should orient the customer toward one clear action rather than generalized enthusiasm.
+
+### Example
+
+Bad:
+
+> Welcome to the platform.
+
+Improved:
+
+> Welcome to WorkflowOS. Start by connecting your existing project tools to enable automated task recommendations and approval routing.
+
+---
+
+## Communication Severity Framework
+
+### Severity Levels
 
 | Level | Description |
 |---|---|
@@ -167,9 +192,9 @@ Ensure consistent, scalable communication standards across all customer-facing o
 
 ---
 
-# Release Communication Framework
+## Release Communication Framework
 
-## Release Message Structure
+### Release Message Structure
 
 Each release communication should include:
 
@@ -180,22 +205,21 @@ Each release communication should include:
 5. Required customer action
 6. Backward compatibility information
 
----
-
-## Example
+### Example
 
 Bad:
 
 > Exciting improvements are now live.
 
 Improved:
+
 > Starting June 4, approval workflows will support conditional routing based on team ownership. Existing workflows will continue operating without changes.
 
 ---
 
-# Incident Communication Model
+## Incident Communication Model
 
-## Incident Communication Requirements
+### Incident Communication Requirements
 
 Incident messaging should explain:
 
@@ -205,9 +229,7 @@ Incident messaging should explain:
 - estimated resolution timing
 - data integrity implications
 
----
-
-## Example
+### Example
 
 Bad:
 
@@ -219,9 +241,9 @@ Improved:
 
 ---
 
-# Escalation Communication Framework
+## Escalation Communication Framework
 
-## Escalation Principles
+### Escalation Principles
 
 Escalation messaging should:
 
@@ -233,20 +255,19 @@ Escalation messaging should:
 
 ---
 
-# Cross-Channel Consistency Rules
+## Cross-Channel Consistency Rules
 
-## Rule 1 — Shared Terminology
+### Rule 1 — Shared Terminology
 
 Product naming must remain identical across:
+
 - product UI
 - support articles
 - release communication
 - onboarding materials
 - notifications
 
----
-
-## Rule 2 — Behavioral Alignment
+### Rule 2 — Behavioral Alignment
 
 Communication should match actual product workflows.
 
@@ -256,17 +277,15 @@ Do not promise:
 - unsupported capabilities
 - guaranteed outcomes
 
----
-
-## Rule 3 — Tone Stability
+### Rule 3 — Tone Stability
 
 Customers should not experience radically different communication behaviors across channels.
 
 ---
 
-# AI Communication Governance
+## AI Communication Governance
 
-## AI-Specific Requirements
+### AI-Specific Requirements
 
 AI-assisted communications must:
 
@@ -278,26 +297,23 @@ AI-assisted communications must:
 
 ---
 
-# Operational Metrics
+## Operational Metrics
 
-## Product Metrics
+### Product Metrics
 
 - onboarding completion
 - release adoption
 - notification engagement
 - escalation resolution speed
 
----
-## Communication Metrics
+### Communication Metrics
 
 - open rates
 - support ticket reduction
 - customer confusion rates
 - terminology consistency scores
 
----
-
-## Trust Metrics
+### Trust Metrics
 
 - enterprise trust feedback
 - incident communication satisfaction
@@ -305,7 +321,7 @@ AI-assisted communications must:
 
 ---
 
-# Scalability Thinking
+## Scalability Thinking
 
 This system supports future maturity layers including:
 
