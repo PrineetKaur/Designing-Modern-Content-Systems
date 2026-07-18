@@ -4,7 +4,7 @@
 
 ---
 
-# Overview
+## Overview
 
 The Product Communication Governance System establishes scalable communication standards across customer-facing product communications.
 
@@ -14,7 +14,7 @@ The system simulates how mature organizations operationalize communication gover
 
 ---
 
-# Problem
+## Problem
 
 As products scale, customer communication becomes fragmented across:
 
@@ -40,9 +40,10 @@ Without governance, organizations experience:
 
 ---
 
-# What This System Does
+## What This System Does
 
 This system helps organizations:
+
 - standardize product communications
 - create reusable notification frameworks
 - align lifecycle messaging across channels
@@ -54,12 +55,12 @@ This system helps organizations:
 
 ---
 
-# Core Components
+## Core Components
 
 | Component | Purpose |
 |---|---|
 | Lifecycle Messaging Framework | Standardize customer journey communication |
-| Notification Taxonomy | Structure communication categories |
+| Communication Taxonomy | Structure communication categories |
 | Escalation Communication Model | Manage high-risk customer messaging |
 | Incident Communication Framework | Support operational transparency |
 | Cross-Channel Governance | Align messaging across surfaces |
@@ -68,9 +69,9 @@ This system helps organizations:
 
 ---
 
-# Example Use Cases
+## Example Use Cases
 
-## Product Release Communication
+### Product Release Communication
 
 Before:
 
@@ -78,11 +79,9 @@ Before:
 
 After:
 
-> Starting May 28, workflow approvals will support multi-step reviewer routing. Existing workflows will continue operating without changes.
+> Starting July 2, workflow approvals will support multi-step reviewer routing for Enterprise workspaces. Existing approval flows will continue operating without changes.
 
----
-
-## Security Notification
+### Security Notification
 
 Before:
 
@@ -92,9 +91,7 @@ After:
 
 > We detected a new admin login from an unrecognized device. Review activity and confirm whether this access was expected.
 
----
-
-## Service Incident Update
+### Service Incident Update
 
 Before:
 
@@ -102,11 +99,13 @@ Before:
 
 After:
 
-> Workflow automation delays are affecting approximately 12% of workspaces in the EU region. Scheduled tasks remain queued and no customer data has been lost.
+> Scheduled exports are delayed for approximately 15% of EU-hosted workspaces. Existing requests remain queued and export processing is gradually recovering.
+
+For the full breakdown of these and other examples — including the scenario, the governance framework applied, and why each fix works — see `examples.md`.
 
 ---
 
-# System Goals
+## System Goals
 
 The system is designed to:
 
@@ -120,7 +119,7 @@ The system is designed to:
 
 ---
 
-# Files Included
+## Files Included
 
 | File | Purpose |
 |---|---|
@@ -130,16 +129,10 @@ The system is designed to:
 
 ---
 
-# Portfolio Case Study
-
-Read case study → View full system on GitHub
-
----
-
-# Maturity Layer Positioning
+## Maturity Layer Positioning
 
 This system belongs to:
 
-## Product Communications Layer
+### Product Communications Layer
 
 It establishes the operational communication infrastructure required to align product experiences, customer expectations, and organizational messaging behaviors.
