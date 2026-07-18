@@ -3,7 +3,8 @@
 ### Content Layer: Product Communications
 
 ---
-# Purpose
+
+## Purpose
 
 This document explains how teams operationalize the Product Communication Governance System.
 
@@ -19,7 +20,7 @@ The system supports coordination across:
 
 ---
 
-# When Teams Should Use This System
+## When Teams Should Use This System
 
 Use this system when creating:
 
@@ -35,9 +36,9 @@ Use this system when creating:
 
 ---
 
-# Operational Workflow
+## Operational Workflow
 
-## Step 1 — Define Communication Type
+### Step 1 — Define Communication Type
 
 Teams identify:
 
@@ -47,9 +48,7 @@ Teams identify:
 - required user action
 - escalation risk
 
----
-
-## Step 2 — Apply Governance Standards
+### Step 2 — Apply Governance Standards
 
 Teams validate:
 
@@ -59,9 +58,8 @@ Teams validate:
 - operational accuracy
 - disclosure requirements
 
----
+### Step 3 — Align Cross-Channel Messaging
 
-## Step 3 — Align Cross-Channel Messaging
 Content should remain behaviorally aligned across:
 
 - email
@@ -71,9 +69,7 @@ Content should remain behaviorally aligned across:
 - status pages
 - onboarding flows
 
----
-
-## Step 4 — Review Escalation Risk
+### Step 4 — Review Escalation Risk
 
 Teams evaluate:
 
@@ -82,9 +78,7 @@ Teams evaluate:
 - enterprise communication requirements
 - legal or compliance implications
 
----
-
-## Step 5 — Publish and Monitor
+### Step 5 — Publish and Monitor
 
 Teams monitor:
 
@@ -96,37 +90,27 @@ Teams monitor:
 
 ---
 
-# Collaboration Model
+## Collaboration Model
 
-| Team | Responsibility |
-|---|---|
-| Product Teams | workflow-specific communication |
-| Content Design | governance and standards |
-| Support Operations | escalation alignment |
-| Customer Success | enterprise coordination |
-| Legal | compliance review |
-| Engineering | automated communication triggers |
+Team-by-team ownership for this system is defined in `system.md`'s Governance Structure section — refer there for the full breakdown across Product, Content Design, Support Operations, Legal, Customer Success, and Engineering.
 
 ---
 
-# Anti-Patterns
+## Anti-Patterns
 
-## Avoid Vague Operational Messaging
+### Avoid Vague Operational Messaging
 
 Bad:
 
 > Improvements are coming soon.
 
----
+### Avoid False Certainty
 
-## Avoid False Certainty
 Bad:
 
 > This update will completely eliminate delays.
 
----
-
-## Avoid Hidden Impact
+### Avoid Hidden Impact
 
 Bad:
 
@@ -138,9 +122,7 @@ Without clarifying:
 - customer impact
 - expected resolution
 
----
-
-## Avoid Alarmist Security Messaging
+### Avoid Alarmist Security Messaging
 
 Bad:
 
@@ -154,7 +136,7 @@ Without:
 
 ---
 
-# Operational Review Checklist
+## Operational Review Checklist
 
 Before publishing communications, teams should verify:
 
@@ -168,9 +150,10 @@ Before publishing communications, teams should verify:
 
 ---
 
-# Success Indicators
+## Success Indicators
 
 The system is working effectively when:
+
 - support confusion decreases
 - customer trust improves
 - incident communication satisfaction increases
@@ -180,7 +163,7 @@ The system is working effectively when:
 
 ---
 
-# Relationship to Other Maturity Layers
+## Relationship to Other Maturity Layers
 
 This Layer 2 system builds upon:
 
