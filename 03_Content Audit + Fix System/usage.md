@@ -3,7 +3,8 @@
 ### Content Layer: Shared Principles & Governance
 
 ---
-# Purpose
+
+## Purpose
 
 This document explains how teams operationalize the Content Audit + Fix System.
 
@@ -19,7 +20,7 @@ The system supports collaboration across:
 
 ---
 
-# When Teams Should Use This System
+## When Teams Should Use This System
 
 Use this system when:
 
@@ -34,9 +35,9 @@ Use this system when:
 
 ---
 
-# Operational Workflow
+## Operational Workflow
 
-## Step 1 — Inventory Content Systems
+### Step 1 — Inventory Content Systems
 
 Teams identify:
 
@@ -46,9 +47,7 @@ Teams identify:
 - operational dependencies
 - customer-facing content risks
 
----
-
-## Step 2 — Run Structured Audit Reviews
+### Step 2 — Run Structured Audit Reviews
 
 Reviewers evaluate:
 
@@ -59,9 +58,8 @@ Reviewers evaluate:
 - localization readiness
 - AI disclosure quality
 
----
+### Step 3 — Assign Severity Levels
 
-## Step 3 — Assign Severity Levels
 Issues are categorized by:
 
 - workflow impact
@@ -69,9 +67,7 @@ Issues are categorized by:
 - customer trust exposure
 - scalability implications
 
----
-
-## Step 4 — Prioritize Remediation
+### Step 4 — Prioritize Remediation
 
 Teams prioritize fixes based on:
 
@@ -81,9 +77,7 @@ Teams prioritize fixes based on:
 - AI risk exposure
 - operational scale
 
----
-
-## Step 5 — Validate Governance Alignment
+### Step 5 — Validate Governance Alignment
 
 Updated content is reviewed against:
 
@@ -95,7 +89,7 @@ Updated content is reviewed against:
 
 ---
 
-# Collaboration Model
+## Collaboration Model
 
 | Team | Responsibility |
 |---|---|
@@ -109,18 +103,17 @@ Updated content is reviewed against:
 
 ---
 
-# Anti-Patterns
+## Anti-Patterns
 
-## Avoid Subjective-Only Reviews
+### Avoid Subjective-Only Reviews
 
 Bad:
 
 > This wording feels unclear.
 
 Without measurable evaluation criteria.
----
 
-## Avoid Governance Without Prioritization
+### Avoid Governance Without Prioritization
 
 Bad:
 
@@ -128,17 +121,13 @@ Bad:
 - ignoring enterprise trust risks
 - ignoring AI disclosure failures
 
----
-
-## Avoid Terminology Drift
+### Avoid Terminology Drift
 
 Bad:
 
 Using multiple labels for identical workflows across systems.
 
----
-
-## Avoid Isolated UX Reviews
+### Avoid Isolated UX Reviews
 
 Bad:
 
@@ -151,7 +140,7 @@ Reviewing UI copy without considering:
 
 ---
 
-# Operational Review Checklist
+## Operational Review Checklist
 
 Before approving content updates, teams should verify:
 
@@ -165,7 +154,7 @@ Before approving content updates, teams should verify:
 
 ---
 
-# Success Indicators
+## Success Indicators
 
 The system is working effectively when:
 
@@ -177,7 +166,8 @@ The system is working effectively when:
 - localization rework decreases
 
 ---
-# Relationship to Other Maturity Layers
+
+## Relationship to Other Maturity Layers
 
 This Layer 3 system builds upon:
 
