@@ -1,9 +1,10 @@
 # Localization + Content Workflow System
 
 ### Content Layer: Localization & Operational
+
 ---
 
-# Overview
+## Overview
 
 The Localization + Content Workflow System is a scalable operational framework designed to manage multilingual content delivery, localization governance, translation workflows, and cross-regional content consistency across product ecosystems.
 
@@ -21,7 +22,7 @@ The system transforms localization from reactive translation work into structure
 
 ---
 
-# Problem
+## Problem
 
 As organizations expand globally, content operations become increasingly fragmented due to:
 
@@ -44,7 +45,7 @@ This creates:
 
 ---
 
-# What This System Does
+## What This System Does
 
 This system helps organizations:
 
@@ -58,7 +59,8 @@ This system helps organizations:
 - maintain terminology stability globally
 
 ---
-# Core Components
+
+## Core Components
 
 | Component | Purpose |
 |---|---|
@@ -72,9 +74,9 @@ This system helps organizations:
 
 ---
 
-# Example Use Cases
+## Example Use Cases
 
-## Localization Workflow Coordination
+### Localization Workflow Coordination
 
 Instead of:
 
@@ -88,9 +90,7 @@ The system provides:
 - release coordination workflows
 - operational handoff standards
 
----
-
-## Terminology Governance
+### Terminology Governance
 
 Instead of:
 
@@ -104,9 +104,7 @@ The system establishes:
 - multilingual content standards
 - reusable localization glossaries
 
----
-
-## AI Localization Alignment
+### AI Localization Alignment
 
 Instead of:
 
@@ -120,9 +118,11 @@ The system creates:
 - multilingual trust frameworks
 - regionally aligned AI communication patterns
 
+For the concrete step-by-step procedures behind these use cases, see `workflow.md`.
+
 ---
 
-# System Goals
+## System Goals
 
 The system is designed to:
 
@@ -136,7 +136,7 @@ The system is designed to:
 
 ---
 
-# Files Included
+## Files Included
 
 | File | Purpose |
 |---|---|
@@ -146,10 +146,10 @@ The system is designed to:
 
 ---
 
-# Maturity Layer Positioning
+## Maturity Layer Positioning
 
 This system belongs to:
 
-## Localization & Operational Layer
+### Localization & Operational Layer
 
 It establishes scalable multilingual operations and governance infrastructure required to maintain consistency across global product ecosystems.
