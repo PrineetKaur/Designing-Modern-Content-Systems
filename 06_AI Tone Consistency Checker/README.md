@@ -4,7 +4,7 @@
 
 ---
 
-# Overview
+## Overview
 
 The AI Tone Consistency Checker is an AI-assisted governance system designed to evaluate, monitor, and maintain tone consistency across large-scale product ecosystems.
 
@@ -23,7 +23,7 @@ The system transforms tone governance from subjective editorial review into scal
 
 ---
 
-# Problem
+## Problem
 
 As organizations scale:
 
@@ -51,7 +51,8 @@ This creates:
 - operational quality degradation
 
 ---
-# What This System Does
+
+## What This System Does
 
 This system helps organizations:
 
@@ -66,7 +67,7 @@ This system helps organizations:
 
 ---
 
-# Core Components
+## Core Components
 
 | Component | Purpose |
 |---|---|
@@ -80,62 +81,47 @@ This system helps organizations:
 
 ---
 
-# Example Use Cases
+## Example Use Cases
 
-## AI Assistant Tone Review
+### AI Assistant Tone Review
 
-Problem:
+Original:
 
-AI assistant responses vary between:
+> This workflow is guaranteed to improve performance.
 
-- robotic
-- overly casual
-- promotional
-- emotionally inconsistent
+Evaluated and corrected:
 
-The system evaluates:
+> This recommendation is based on recent workflow activity and may improve task completion efficiency depending on current team usage patterns.
 
-- trust stability
-- clarity
-- escalation appropriateness
-- emotional consistency
-- recovery guidance quality
+### Incident Communication Evaluation
 
----
-## Incident Communication Evaluation
+Original:
 
-Problem:
+> Incident processing failure detected.
 
-Operational incident messaging becomes:
+Evaluated and corrected:
 
-- overly technical
-- emotionally detached
-- vague about impact
+> Scheduled exports are delayed for approximately 15% of EU-hosted workspaces. Existing export requests remain queued and no customer data has been lost.
 
-The system flags:
+### Multilingual Tone Alignment
 
-- missing empathy patterns
-- lack of actionable guidance
-- trust instability
+English:
 
----
+> Review recommendations before activation.
 
-## Multilingual Tone Alignment
+Localized (drifted):
 
-Problem:
+> Changes will automatically improve performance.
 
-Localized AI messaging behaves inconsistently across regions.
+Corrected localization:
 
-The system evaluates:
+> Review suggested updates before activation.
 
-- emotional consistency
-- trust alignment
-- escalation clarity
-- recovery guidance quality
+For the full breakdown of these and other evaluations — including scenario, findings, and the prompt applied — see `examples.md`.
 
 ---
 
-# System Goals
+## System Goals
 
 The system is designed to:
 
@@ -149,7 +135,8 @@ The system is designed to:
 
 ---
 
-# Files Included
+## Files Included
+
 | File | Purpose |
 |---|---|
 | system.md | Governance and evaluation infrastructure |
@@ -159,10 +146,10 @@ The system is designed to:
 
 ---
 
-# Maturity Layer Positioning
+## Maturity Layer Positioning
 
 This system belongs to:
 
-## AI Content Infrastructure Layer
+### AI Content Infrastructure Layer
 
 It establishes scalable AI-assisted governance infrastructure required to maintain consistent communication behaviors across complex product ecosystems.
