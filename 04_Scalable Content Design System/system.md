@@ -102,16 +102,7 @@ Content structures should minimize:
 
 ## Governance Framework
 
-### Governance Layers
 
-| Layer | Responsibility |
-|---|---|
-| Content Design | governance ownership |
-| Product Teams | workflow implementation |
-| Engineering | system integration |
-| Localization | regional consistency |
-| AI Governance | AI interaction standards |
-| Support Operations | escalation feedback |
 
 ---
 
