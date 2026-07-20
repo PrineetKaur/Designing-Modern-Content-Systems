@@ -3,7 +3,8 @@
 ### Content Layer: Shared Principles & Governance
 
 ---
-# System Purpose
+
+## System Purpose
 
 The Scalable Content Design System establishes reusable governance infrastructure for managing content operations across growing product ecosystems.
 
@@ -21,7 +22,7 @@ This system treats content design as organizational infrastructure rather than i
 
 ---
 
-# Organizational Scenario
+## Organizational Scenario
 
 A rapidly scaling SaaS organization operates across:
 
@@ -45,9 +46,9 @@ The Scalable Content Design System creates centralized infrastructure to standar
 
 ---
 
-# Foundational Principles
+## Foundational Principles
 
-## 1. Content Is Product Infrastructure
+### 1. Content Is Product Infrastructure
 
 Content should not function as isolated interface text.
 
@@ -59,9 +60,8 @@ It shapes:
 - escalation behavior
 - support burden
 - AI interaction quality
----
 
-## 2. Governance Must Scale Operationally
+### 2. Governance Must Scale Operationally
 
 Governance systems should support:
 
@@ -70,9 +70,7 @@ Governance systems should support:
 - scalable workflows
 - decentralized execution with centralized standards
 
----
-
-## 3. Consistency Builds Trust
+### 3. Consistency Builds Trust
 
 Stable terminology, interaction patterns, and tone systems reduce:
 
@@ -81,9 +79,7 @@ Stable terminology, interaction patterns, and tone systems reduce:
 - localization complexity
 - support escalation
 
----
-
-## 4. AI Requires Structured Governance
+### 4. AI Requires Structured Governance
 
 AI-assisted systems increase the importance of:
 
@@ -93,9 +89,7 @@ AI-assisted systems increase the importance of:
 - trust preservation
 - recovery guidance
 
----
-
-## 5. Systems Should Support Localization Readiness
+### 5. Systems Should Support Localization Readiness
 
 Content structures should minimize:
 
@@ -106,9 +100,9 @@ Content structures should minimize:
 
 ---
 
-# Governance Framework
+## Governance Framework
 
-## Governance Layers
+### Governance Layers
 
 | Layer | Responsibility |
 |---|---|
@@ -121,9 +115,9 @@ Content structures should minimize:
 
 ---
 
-# Content Principles Framework
+## Content Principles Framework
 
-## Principle Categories
+### Principle Categories
 
 | Principle | Purpose |
 |---|---|
@@ -137,9 +131,9 @@ Content structures should minimize:
 
 ---
 
-# Voice & Tone System
+## Voice & Tone System
 
-## Voice Characteristics
+### Voice Characteristics
 
 | Trait | Description |
 |---|---|
@@ -149,9 +143,7 @@ Content structures should minimize:
 | Operational | focused on task completion |
 | Transparent | explains limitations honestly |
 
----
-
-## Tone Adaptation Framework
+### Tone Adaptation Framework
 
 | Scenario | Tone Behavior |
 |---|---|
@@ -162,9 +154,10 @@ Content structures should minimize:
 | escalation | reassuring and operational |
 
 ---
- Taxonomy Governance System
 
-## Taxonomy Objectives
+## Taxonomy Governance System
+
+### Taxonomy Objectives
 
 The taxonomy system ensures:
 
@@ -174,9 +167,7 @@ The taxonomy system ensures:
 - AI prompt consistency
 - operational clarity
 
----
-
-## Governance Rules
+### Governance Rules
 
 Shared terminology must remain stable across:
 
@@ -190,9 +181,9 @@ Shared terminology must remain stable across:
 
 ---
 
-# Reusable Pattern Infrastructure
+## Reusable Pattern Infrastructure
 
-## Pattern Categories
+### Pattern Categories
 
 | Pattern | Purpose |
 |---|---|
@@ -205,9 +196,9 @@ Shared terminology must remain stable across:
 
 ---
 
-# Review Governance System
+## Review Governance System
 
-## Review Objectives
+### Review Objectives
 
 Reviews evaluate:
 
@@ -218,11 +209,11 @@ Reviews evaluate:
 - localization readiness
 - AI transparency
 
----
+### Review Workflow
 
-## Review Workflow
+This is the governance workflow for creating and approving *new* reusable patterns and templates. For the workflow teams follow when applying already-approved patterns to a specific task, see `usage.md`'s Operational Workflow.
 
-### Step 1 — Content Submission
+#### Step 1 — Content Submission
 
 Teams submit:
 
@@ -231,9 +222,7 @@ Teams submit:
 - AI involvement level
 - localization considerations
 
----
-
-### Step 2 — Governance Evaluation
+#### Step 2 — Governance Evaluation
 
 Reviewers evaluate:
 
@@ -242,9 +231,7 @@ Reviewers evaluate:
 - interaction clarity
 - operational consistency
 
----
-
-### Step 3 — Remediation Feedback
+#### Step 3 — Remediation Feedback
 
 Feedback prioritizes:
 
@@ -253,17 +240,15 @@ Feedback prioritizes:
 - trust preservation
 - workflow usability
 
----
-
-### Step 4 — Governance Approval
+#### Step 4 — Governance Approval
 
 Approved content becomes reusable operational guidance.
 
 ---
 
-# AI Governance Alignment
+## AI Governance Alignment
 
-## AI Content Rules
+### AI Content Rules
 
 AI-assisted workflows must:
 
@@ -275,27 +260,23 @@ AI-assisted workflows must:
 
 ---
 
-# Operational Metrics
+## Operational Metrics
 
-## Governance Metrics
+### Governance Metrics
 
 - terminology consistency rate
 - review turnaround time
 - governance adoption rate
 - reusable pattern usage
 
----
-
-## UX Metrics
+### UX Metrics
 
 - onboarding completion
 - support ticket reduction
 - workflow abandonment reduction
 - recovery success rate
 
----
-
-## Operational Metrics
+### Cross-Team Metrics
 
 - localization rework reduction
 - duplicated content reduction
@@ -303,7 +284,7 @@ AI-assisted workflows must:
 
 ---
 
-# Scalability Thinking
+## Scalability Thinking
 
 This system enables future maturity layers, including:
 
