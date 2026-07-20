@@ -4,7 +4,7 @@
 
 ---
 
-# Overview
+## Overview
 
 The Scalable Content Design System is a reusable governance and operational infrastructure framework designed to standardize how content is structured, managed, reviewed, and scaled across product ecosystems.
 
@@ -24,7 +24,7 @@ Rather than functioning as a static style guide, this system creates operational
 
 ---
 
-# Problem
+## Problem
 
 As organizations scale across:
 
@@ -55,7 +55,8 @@ This creates:
 
 ---
 
-# What This System Does
+## What This System Does
+
 This system helps organizations:
 
 - establish scalable content governance
@@ -69,7 +70,7 @@ This system helps organizations:
 
 ---
 
-# Core Components
+## Core Components
 
 | Component | Purpose |
 |---|---|
@@ -83,56 +84,31 @@ This system helps organizations:
 
 ---
 
-# Example Use Cases
+## Example Use Cases
 
-## Shared Error Pattern
+### AI Error Recovery Template
 
-Instead of:
+Structure: what happened → why it happened → recommended next step → escalation guidance
 
-- inconsistent product-specific error messaging
-- duplicated recovery logic
-- fragmented escalation patterns
+> We couldn't complete the export because the selected report exceeds the current file size limit. Reduce the export range and try again.
 
-The system establishes:
+### AI Recommendation Template
 
-- reusable error frameworks
-- shared recovery guidance models
-- standardized escalation structures
+Structure: recommendation source → AI limitation framing → user review expectation
 
----
+> This recommendation is based on recent workflow activity and requires admin review before activation.
 
-## Voice Governance
+### Incident Communication Template
 
-Instead of:
+Structure: impact scope → workflow status → resolution status → trust reinforcement
 
-- support sounding formal
-- product UI sounding robotic
-- lifecycle messaging sounding promotional
+> Scheduled exports are delayed for approximately 15% of EU-hosted workspaces. Existing requests remain queued and no customer data has been lost.
 
-The system creates:
-- stable behavioral tone rules
-- cross-channel communication consistency
-- operational tone governance
+For the full set of 5 templates — including Empty State and Onboarding Guidance — see `templates.md`.
 
 ---
 
-## Template Infrastructure
-
-Instead of:
-
-- ad hoc onboarding structures
-- inconsistent release messaging
-- duplicated UX workflows
-
-The system provides:
-
-- reusable templates
-- governance validation rules
-- operational scalability
-
----
-
-# System Goals
+## System Goals
 
 The system is designed to:
 
@@ -146,7 +122,7 @@ The system is designed to:
 
 ---
 
-# Files Included
+## Files Included
 
 | File | Purpose |
 |---|---|
@@ -155,10 +131,11 @@ The system is designed to:
 | usage.md | Cross-functional workflow guidance |
 
 ---
-# Maturity Layer Positioning
+
+## Maturity Layer Positioning
 
 This system belongs to:
 
-## Shared Principles & Governance Layer
+### Shared Principles & Governance Layer
 
 It establishes reusable operational infrastructure required for scalable content ecosystems, localization systems, and AI-assisted governance.
