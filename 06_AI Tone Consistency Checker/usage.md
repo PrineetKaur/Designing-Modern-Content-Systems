@@ -1,6 +1,6 @@
 # AI Tone Consistency Checker Usage Guide
 
-### Content Layer: AI Content Infrastructure
+
 
 ---
 
