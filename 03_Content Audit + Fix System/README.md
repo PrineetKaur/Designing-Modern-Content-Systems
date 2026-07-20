@@ -4,7 +4,7 @@
 
 ---
 
-# Overview
+## Overview
 
 The Content Audit + Fix System is a scalable governance framework designed to identify, evaluate, prioritize, and improve content quality issues across product ecosystems.
 
@@ -22,7 +22,7 @@ The system transforms content governance from reactive editorial cleanup into a 
 
 ---
 
-# Problem
+## Problem
 
 As organizations scale product surfaces, content quality begins to degrade across:
 
@@ -54,9 +54,10 @@ This creates:
 
 ---
 
-# What This System Does
+## What This System Does
 
 This system helps organizations:
+
 - audit content quality at scale
 - identify high-risk content issues
 - standardize terminology
@@ -68,7 +69,7 @@ This system helps organizations:
 
 ---
 
-# Core Components
+## Core Components
 
 | Component | Purpose |
 |---|---|
@@ -82,35 +83,33 @@ This system helps organizations:
 
 ---
 
-# Example Use Cases
+## Example Use Cases
 
-## UX Clarity Audit
+### UX Clarity Audit
 
 Before:
 
-> Smart workflow optimization enabled.
+> Best workflow identified.
 
 Audit Finding:
 
-- unclear AI behavior
 - misleading certainty
-- missing user review expectations
+- no recommendation context
+- no user review guidance
 
 After:
 
-> Workflow recommendations are generated automatically and require admin review before activation.
+> This recommendation is based on recent workflow activity and requires admin review before activation.
 
----
-
-## Terminology Audit
+### Terminology Audit
 
 Issue Found:
 
 The product inconsistently uses:
-- Workspace
-- Team Space
-- Organization Space
+
 - Project Hub
+- Workspace
+- Team Area
 
 Resolution:
 
@@ -120,13 +119,11 @@ Governance standardizes:
 
 across all systems.
 
----
-
-## Error Recovery Audit
+### Error Recovery Audit
 
 Before:
 
-> Request failed.
+> Export failed.
 
 Audit Finding:
 
@@ -136,11 +133,13 @@ Audit Finding:
 
 After:
 
-> We couldn’t complete the export because the selected report exceeds the current file size limit. Reduce the export range and try again.
+> We couldn't complete the export because the selected report exceeds the current file size limit. Reduce the export range and try again.
+
+For the full breakdown of these and other audits — including scenario, findings, and why each fix works — see `examples.md`.
 
 ---
 
-# System Goals
+## System Goals
 
 The system is designed to:
 
@@ -154,7 +153,7 @@ The system is designed to:
 
 ---
 
-# Files Included
+## Files Included
 
 | File | Purpose |
 |---|---|
@@ -163,10 +162,11 @@ The system is designed to:
 | usage.md | Operational workflows and collaboration guidance |
 
 ---
-# Maturity Layer Positioning
+
+## Maturity Layer Positioning
 
 This system belongs to:
 
-## Shared Principles & Governance Layer
+### Shared Principles & Governance Layer
 
 It establishes scalable quality evaluation and remediation infrastructure required to maintain consistency across growing content ecosystems.
