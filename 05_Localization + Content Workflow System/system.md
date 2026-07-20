@@ -1,8 +1,10 @@
 # Localization + Content Workflow System
 
 ### Content Layer: Localization & Operational
+
 ---
-# System Purpose
+
+## System Purpose
 
 The Localization + Content Workflow System establishes operational infrastructure for managing multilingual content ecosystems at scale.
 
@@ -20,7 +22,7 @@ This system treats localization as operational infrastructure rather than isolat
 
 ---
 
-# Organizational Scenario
+## Organizational Scenario
 
 A global SaaS organization operates across:
 
@@ -44,11 +46,12 @@ The Localization + Content Workflow System creates centralized operational infra
 
 ---
 
-# Localization Principles
+## Localization Principles
 
-## 1. Localization Is Product Infrastructure
+### 1. Localization Is Product Infrastructure
 
 Localization impacts:
+
 - usability
 - trust
 - onboarding success
@@ -58,9 +61,7 @@ Localization impacts:
 
 Localization quality directly affects product quality.
 
----
-
-## 2. Terminology Stability Is Mandatory
+### 2. Terminology Stability Is Mandatory
 
 Shared terminology reduces:
 
@@ -70,9 +71,7 @@ Shared terminology reduces:
 - AI behavior drift
 - support escalation
 
----
-
-## 3. Localization Must Align With Product Releases
+### 3. Localization Must Align With Product Releases
 
 Localization workflows should integrate directly into:
 
@@ -83,9 +82,7 @@ Localization workflows should integrate directly into:
 
 Localization cannot function as a post-launch task.
 
----
-
-## 4. AI Localization Requires Higher Governance Standards
+### 4. AI Localization Requires Higher Governance Standards
 
 AI-generated multilingual content introduces additional risks:
 
@@ -97,8 +94,7 @@ AI-generated multilingual content introduces additional risks:
 
 AI workflows require structured multilingual governance.
 
----
-## 5. Regional Consistency Builds Enterprise Trust
+### 5. Regional Consistency Builds Enterprise Trust
 
 Customers should experience:
 
@@ -111,9 +107,9 @@ across all regions.
 
 ---
 
-# Governance Framework
+## Governance Framework
 
-## Governance Layers
+### Governance Layers
 
 | Layer | Responsibility |
 |---|---|
@@ -127,9 +123,9 @@ across all regions.
 
 ---
 
-# Localization Workflow Infrastructure
+## Localization Workflow Infrastructure
 
-## Workflow Stages
+### Workflow Stages
 
 | Stage | Purpose |
 |---|---|
@@ -141,22 +137,23 @@ across all regions.
 | Release Coordination | align multilingual launches |
 | Post-Launch Monitoring | identify operational issues |
 
+This table summarizes the stages at a conceptual level. For the fully detailed step-by-step procedure — including sub-tasks for each stage — see `workflow.md`'s Workflow 1 (Product Release Localization).
+
 ---
 
-# Terminology Governance System
+## Terminology Governance System
 
-## Governance Objectives
+### Governance Objectives
 
 The terminology system ensures:
+
 - multilingual consistency
 - workflow clarity
 - AI translation stability
 - reusable localization patterns
 - operational alignment across regions
 
----
-
-## Governance Rules
+### Governance Rules
 
 Approved terminology must remain stable across:
 
@@ -170,9 +167,9 @@ Approved terminology must remain stable across:
 
 ---
 
-# AI Localization Governance
+## AI Localization Governance
 
-## AI-Specific Requirements
+### AI-Specific Requirements
 
 AI-generated multilingual content must:
 
@@ -182,9 +179,7 @@ AI-generated multilingual content must:
 - preserve recovery guidance clarity
 - support regional usability
 
----
-
-## AI Localization Risk Areas
+### AI Localization Risk Areas
 
 | Risk | Example |
 |---|---|
@@ -196,11 +191,12 @@ AI-generated multilingual content must:
 
 ---
 
-# Release Coordination Framework
+## Release Coordination Framework
 
-## Coordination Objectives
+### Coordination Objectives
 
 Localization releases should align with:
+
 - feature launches
 - support readiness
 - documentation publication
@@ -209,9 +205,9 @@ Localization releases should align with:
 
 ---
 
-# Regional Review Pipeline
+## Regional Review Pipeline
 
-## Review Objectives
+### Review Objectives
 
 Regional reviewers validate:
 
@@ -224,9 +220,9 @@ Regional reviewers validate:
 
 ---
 
-# Operational Handoff System
+## Operational Handoff System
 
-## Handoff Requirements
+### Handoff Requirements
 
 Each localization handoff should include:
 
@@ -239,26 +235,23 @@ Each localization handoff should include:
 
 ---
 
-# Operational Metrics
+## Operational Metrics
 
-## Localization Metrics
+### Localization Metrics
 
 - translation turnaround time
 - localization QA pass rate
 - terminology consistency score
 - localization rework reduction
 
----
+### Product Metrics
 
-## Product Metrics
 - onboarding completion by region
 - support ticket volume by language
 - workflow completion consistency
 - AI trust satisfaction across regions
 
----
-
-## Operational Metrics
+### Release Coordination Metrics
 
 - release coordination efficiency
 - multilingual launch delays
@@ -266,7 +259,7 @@ Each localization handoff should include:
 
 ---
 
-# Scalability Thinking
+## Scalability Thinking
 
 This system enables future maturity layers, including:
 
