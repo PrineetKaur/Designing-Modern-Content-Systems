@@ -3,7 +3,8 @@
 ### Content Layer: Shared Principles & Governance
 
 ---
-# System Purpose
+
+## System Purpose
 
 The Content Audit + Fix System establishes operational mechanisms for evaluating and improving content quality across product ecosystems.
 
@@ -21,7 +22,7 @@ This system treats content quality as an operational scalability problem rather 
 
 ---
 
-# Organizational Scenario
+## Organizational Scenario
 
 A fast-scaling SaaS organization operates across:
 
@@ -45,9 +46,9 @@ The Content Audit + Fix System creates centralized governance infrastructure to 
 
 ---
 
-# Governance Principles
+## Governance Principles
 
-## 1. Clarity Is Measurable
+### 1. Clarity Is Measurable
 
 Content quality should not rely solely on subjective feedback.
 
@@ -60,9 +61,8 @@ The system operationalizes:
 - terminology consistency
 
 through structured evaluation models.
----
 
-## 2. Terminology Consistency Builds Trust
+### 2. Terminology Consistency Builds Trust
 
 Shared terminology reduces:
 
@@ -73,9 +73,7 @@ Shared terminology reduces:
 
 Governance must maintain stable naming structures across systems.
 
----
-
-## 3. UX Content Must Support Recovery
+### 3. UX Content Must Support Recovery
 
 Content should help users continue workflows.
 
@@ -86,9 +84,7 @@ Audit reviews prioritize:
 - workflow continuity
 - trust preservation
 
----
-
-## 4. AI Messaging Requires Higher Governance Standards
+### 4. AI Messaging Requires Higher Governance Standards
 
 AI-assisted workflows introduce elevated risks around:
 
@@ -99,9 +95,7 @@ AI-assisted workflows introduce elevated risks around:
 
 AI-related content receives higher audit priority.
 
----
-
-## 5. Governance Must Scale Operationally
+### 5. Governance Must Scale Operationally
 
 The system is designed for:
 
@@ -112,9 +106,10 @@ The system is designed for:
 
 ---
 
-# Audit Framework
+## Audit Framework
 
-## Audit Categories
+### Audit Categories
+
 | Category | Evaluation Focus |
 |---|---|
 | UX Clarity | understandability and guidance |
@@ -128,9 +123,9 @@ The system is designed for:
 
 ---
 
-# Audit Severity Model
+## Audit Severity Model
 
-## Severity Levels
+### Severity Levels
 
 | Severity | Description |
 |---|---|
@@ -141,9 +136,9 @@ The system is designed for:
 
 ---
 
-# Content Quality Scoring Model
+## Content Quality Scoring Model
 
-## Evaluation Metrics
+### Evaluation Metrics
 
 | Metric | Description |
 |---|---|
@@ -157,9 +152,9 @@ The system is designed for:
 
 ---
 
-# Terminology Governance System
+## Terminology Governance System
 
-## Governance Requirements
+### Governance Requirements
 
 Shared terminology must remain stable across:
 
@@ -171,8 +166,7 @@ Shared terminology must remain stable across:
 - AI interactions
 - localization systems
 
----
-## Example
+### Example
 
 Audit Finding:
 
@@ -188,9 +182,9 @@ Approved Governance Term:
 
 ---
 
-# AI Content Risk Framework
+## AI Content Risk Framework
 
-## High-Risk Patterns
+### High-Risk Patterns
 
 The system flags:
 
@@ -203,9 +197,9 @@ The system flags:
 
 ---
 
-# Remediation Prioritization Framework
+## Remediation Prioritization Framework
 
-## Prioritization Factors
+### Prioritization Factors
 
 | Factor | Purpose |
 |---|---|
@@ -216,86 +210,27 @@ The system flags:
 | Localization Risk | translation and regional consistency |
 | AI Risk | automation misunderstanding |
 
----
-
-# Audit Workflow
-
-## Step 1 — Content Inventory
-
-Teams identify:
-
-- affected product surfaces
-- communication types
-- AI-assisted workflows
-- customer-facing operational messaging
-
----
-## Step 2 — Audit Evaluation
-
-Reviewers evaluate:
-
-- clarity
-- consistency
-- trust risk
-- recovery quality
-- accessibility
-- localization readiness
+For the step-by-step operational audit workflow — from content inventory through governance validation — see `usage.md`'s Operational Workflow section.
 
 ---
 
-## Step 3 — Severity Classification
+## Operational Metrics
 
-Issues are categorized using:
-
-- severity level
-- operational risk
-- trust impact
-- scalability implications
-
----
-
-## Step 4 — Remediation Planning
-
-Teams prioritize:
-
-- high-risk workflows
-- enterprise-facing content
-- AI interactions
-- support-heavy content
-
----
-
-## Step 5 — Governance Validation
-
-Updated content is validated against:
-
-- terminology standards
-- UX writing systems
-- communication governance
-- localization infrastructure
-
----
-
-# Operational Metrics
-
-## Governance Metrics
+### Governance Metrics
 
 - terminology consistency rate
 - audit completion coverage
 - content debt reduction
 - remediation turnaround time
 
----
+### UX Metrics
 
-## UX Metrics
 - support ticket reduction
 - onboarding completion improvements
 - workflow abandonment reduction
 - error recovery success rates
 
----
-
-## Trust Metrics
+### Trust Metrics
 
 - AI transparency satisfaction
 - enterprise trust feedback
@@ -303,7 +238,7 @@ Updated content is validated against:
 
 ---
 
-# Scalability Thinking
+## Scalability Thinking
 
 This system enables future maturity layers including:
 
