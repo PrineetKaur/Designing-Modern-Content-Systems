@@ -142,6 +142,7 @@ Content structures should minimize:
 | Calm | reduces user anxiety |
 | Operational | focused on task completion |
 | Transparent | explains limitations honestly |
+| Supportive | helps users continue workflows |
 
 ### Tone Adaptation Framework
 
