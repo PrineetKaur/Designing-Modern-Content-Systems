@@ -3,7 +3,8 @@
 ### Content Layer: Shared Principles & Governance
 
 ---
-# Purpose
+
+## Purpose
 
 This document explains how teams operationalize the Scalable Content Design System.
 
@@ -19,7 +20,7 @@ The system supports:
 
 ---
 
-# When Teams Should Use This System
+## When Teams Should Use This System
 
 Use this system when:
 
@@ -34,9 +35,11 @@ Use this system when:
 
 ---
 
-# Operational Workflow
+## Operational Workflow
 
-## Step 1 — Identify Workflow Type
+This is the workflow teams follow when applying already-approved patterns and templates to a specific task. For how new patterns get created and approved in the first place, see `system.md`'s Review Workflow.
+
+### Step 1 — Identify Workflow Type
 
 Teams determine:
 
@@ -46,9 +49,7 @@ Teams determine:
 - operational risk
 - localization impact
 
----
-
-## Step 2 — Select Reusable Framework
+### Step 2 — Select Reusable Framework
 
 Teams apply:
 
@@ -58,8 +59,7 @@ Teams apply:
 - terminology standards
 - recovery structures
 
----
-## Step 3 — Validate Governance Alignment
+### Step 3 — Validate Governance Alignment
 
 Reviewers evaluate:
 
@@ -69,9 +69,7 @@ Reviewers evaluate:
 - localization readiness
 - AI disclosure compliance
 
----
-
-## Step 4 — Publish Reusable Patterns
+### Step 4 — Publish Reusable Patterns
 
 Approved content becomes:
 
@@ -81,22 +79,15 @@ Approved content becomes:
 
 ---
 
-# Collaboration Model
+## Collaboration Model
 
-| Team | Responsibility |
-|---|---|
-| Content Design | governance ownership |
-| Product Teams | workflow implementation |
-| Engineering | system integration |
-| Localization | regional adaptation |
-| AI Governance | AI interaction validation |
-| Support Operations | escalation feedback |
+Team-by-team ownership for this system is defined in `system.md`'s Governance Framework section — refer there for the full breakdown across Content Design, Product Teams, Engineering, Localization, AI Governance, and Support Operations.
 
 ---
 
-# Anti-Patterns
+## Anti-Patterns
 
-## Avoid Governance Without Operational Adoption
+### Avoid Governance Without Operational Adoption
 
 Bad:
 
@@ -104,16 +95,13 @@ Bad:
 - unused documentation
 - isolated editorial rules
 
----
-
-## Avoid Pattern Fragmentation
+### Avoid Pattern Fragmentation
 
 Bad:
 
 Different onboarding structures across identical workflows.
 
----
-## Avoid Tone Inconsistency
+### Avoid Tone Inconsistency
 
 Bad:
 
@@ -121,9 +109,7 @@ Bad:
 - overly promotional lifecycle messaging
 - inconsistent escalation communication
 
----
-
-## Avoid AI Governance Gaps
+### Avoid AI Governance Gaps
 
 Bad:
 
@@ -133,7 +119,7 @@ Bad:
 
 ---
 
-# Operational Review Checklist
+## Operational Review Checklist
 
 Before approving reusable patterns, teams should verify:
 
@@ -146,7 +132,7 @@ Before approving reusable patterns, teams should verify:
 
 ---
 
-# Success Indicators
+## Success Indicators
 
 The system is working effectively when:
 
@@ -159,7 +145,7 @@ The system is working effectively when:
 
 ---
 
-# Relationship to Other Maturity Layers
+## Relationship to Other Maturity Layers
 
 This Layer 3 system builds upon:
 
