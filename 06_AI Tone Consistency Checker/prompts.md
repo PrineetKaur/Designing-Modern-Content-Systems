@@ -1,10 +1,10 @@
-# AI Tone Consistency Checker
+# AI Tone Consistency Checker Prompts
 
 ### Content Layer: AI Content Infrastructure
 
 ---
 
-# Purpose
+## Purpose
 
 These prompts operationalize AI-assisted editorial governance for evaluating communication tone consistency across product ecosystems.
 
@@ -19,7 +19,7 @@ The prompts are designed to:
 
 ---
 
-# Core Evaluation Prompt
+## Core Evaluation Prompt
 
 ```text
 You are an AI Editorial Governance Reviewer.
@@ -49,11 +49,11 @@ Return:
 - Trust concerns
 - Improvement recommendations
 - Escalation severity if applicable
-````
+```
 
 ---
 
-# AI Drift Detection Prompt
+## AI Drift Detection Prompt
 
 ```text
 Analyze the following communication samples for behavioral inconsistency.
@@ -77,7 +77,7 @@ Return:
 
 ---
 
-# Incident Communication Review Prompt
+## Incident Communication Review Prompt
 
 ```text
 Evaluate this operational incident message.
@@ -100,7 +100,7 @@ Return:
 
 ---
 
-# Multilingual Tone Evaluation Prompt
+## Multilingual Tone Evaluation Prompt
 
 ```text
 Compare the following multilingual communication samples.
@@ -125,7 +125,7 @@ Return:
 
 ---
 
-# AI Disclosure Validation Prompt
+## AI Disclosure Validation Prompt
 
 ```text
 Review the following AI-generated communication.
@@ -146,37 +146,37 @@ Return:
 
 ---
 
-# Prompt Governance Rules
+## Prompt Governance Rules
 
 Prompts should:
 
-* prioritize trust stability
-* avoid subjective-only evaluation
-* support measurable governance
-* align with behavioral taxonomy
-* support multilingual consistency
-* preserve escalation clarity
+- prioritize trust stability
+- avoid subjective-only evaluation
+- support measurable governance
+- align with behavioral taxonomy
+- support multilingual consistency
+- preserve escalation clarity
 
 ---
 
-# Evaluation Severity Framework
+## Evaluation Severity Framework
 
-| Severity | Description                     |
-| -------- | ------------------------------- |
-| Low      | minor tone inconsistency        |
-| Moderate | workflow clarity risk           |
-| High     | trust or escalation instability |
-| Critical | enterprise or compliance risk   |
+| Severity | Description |
+|---|---|
+| Low | minor tone inconsistency |
+| Moderate | workflow clarity risk |
+| High | trust or escalation instability |
+| Critical | enterprise or compliance risk |
 
 ---
 
-# Operational Usage
+## Operational Usage
 
 These prompts support:
 
-* AI editorial reviews
-* escalation communication validation
-* multilingual tone governance
-* onboarding quality evaluation
-* AI assistant governance
-* lifecycle messaging reviews
+- AI editorial reviews
+- escalation communication validation
+- multilingual tone governance
+- onboarding quality evaluation
+- AI assistant governance
+- lifecycle messaging reviews
