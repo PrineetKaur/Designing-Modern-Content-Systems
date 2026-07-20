@@ -3,7 +3,8 @@
 ### Content Layer: AI Content Infrastructure
 
 ---
-# System Purpose
+
+## System Purpose
 
 The AI Tone Consistency Checker establishes scalable AI-assisted governance infrastructure for evaluating communication behavior across product ecosystems.
 
@@ -21,7 +22,7 @@ This system treats tone governance as measurable infrastructure rather than subj
 
 ---
 
-# Organizational Scenario
+## Organizational Scenario
 
 A global SaaS organization operates across:
 
@@ -46,9 +47,9 @@ The AI Tone Consistency Checker creates centralized infrastructure to evaluate a
 
 ---
 
-# Governance Principles
+## Governance Principles
 
-## 1. Tone Is Behavioral Infrastructure
+### 1. Tone Is Behavioral Infrastructure
 
 Tone affects:
 
@@ -61,9 +62,7 @@ Tone affects:
 
 Tone governance directly impacts product quality.
 
----
-
-## 2. AI Systems Require Continuous Evaluation
+### 2. AI Systems Require Continuous Evaluation
 
 AI-generated communication can drift due to:
 
@@ -74,9 +73,7 @@ AI-generated communication can drift due to:
 
 Continuous evaluation infrastructure is required.
 
----
-
-## 3. Consistency Builds Operational Trust
+### 3. Consistency Builds Operational Trust
 
 Stable communication behavior reduces:
 
@@ -85,9 +82,7 @@ Stable communication behavior reduces:
 - onboarding friction
 - trust instability
 
----
-
-## 4. Tone Governance Must Be Measurable
+### 4. Tone Governance Must Be Measurable
 
 The system operationalizes:
 
@@ -97,9 +92,7 @@ The system operationalizes:
 - trust stability evaluation
 - multilingual consistency reviews
 
----
-
-## 5. AI Governance Requires Human Oversight
+### 5. AI Governance Requires Human Oversight
 
 AI evaluation systems should support:
 
@@ -111,9 +104,10 @@ AI evaluation systems should support:
 AI systems assist governance rather than replacing it.
 
 ---
-# Tone Governance Framework
 
-## Governance Layers
+## Tone Governance Framework
+
+### Governance Layers
 
 | Layer | Responsibility |
 |---|---|
@@ -126,9 +120,9 @@ AI systems assist governance rather than replacing it.
 
 ---
 
-# Behavioral Taxonomy
+## Behavioral Taxonomy
 
-## Approved Behavioral Traits
+### Approved Behavioral Traits
 
 | Trait | Description |
 |---|---|
@@ -141,9 +135,9 @@ AI systems assist governance rather than replacing it.
 
 ---
 
-# Tone Evaluation Framework
+## Tone Evaluation Framework
 
-## Evaluation Categories
+### Evaluation Categories
 
 | Category | Evaluation Focus |
 |---|---|
@@ -157,9 +151,10 @@ AI systems assist governance rather than replacing it.
 
 ---
 
-# Drift Detection System
+## Drift Detection System
 
-## Drift Risk Areas
+### Drift Risk Areas
+
 | Drift Type | Example |
 |---|---|
 | Emotional Drift | overly casual AI messaging |
@@ -170,9 +165,9 @@ AI systems assist governance rather than replacing it.
 
 ---
 
-# AI Editorial Governance
+## AI Editorial Governance
 
-## Governance Objectives
+### Governance Objectives
 
 The system evaluates whether AI-generated communication:
 
@@ -185,9 +180,9 @@ The system evaluates whether AI-generated communication:
 
 ---
 
-# Multilingual Tone Governance
+## Multilingual Tone Governance
 
-## Governance Goals
+### Governance Goals
 
 The system validates:
 
@@ -199,9 +194,9 @@ The system validates:
 
 ---
 
-# Operational Review Pipeline
+## Operational Review Pipeline
 
-## Workflow Stages
+### Workflow Stages
 
 | Stage | Purpose |
 |---|---|
@@ -212,28 +207,27 @@ The system validates:
 | Remediation Guidance | improve communication outputs |
 | Governance Reporting | measure system health |
 
----
-# Operational Metrics
+This table summarizes the pipeline at a conceptual level. For the fully detailed step-by-step procedure, see `usage.md`'s Operational Workflow.
 
-## Governance Metrics
+---
+
+## Operational Metrics
+
+### Governance Metrics
 
 - tone consistency score
 - drift detection frequency
 - AI review coverage
 - governance adoption rate
 
----
-
-## UX Metrics
+### UX Metrics
 
 - support satisfaction
 - onboarding confidence
 - escalation clarity ratings
 - AI trust feedback
 
----
-
-## Operational Metrics
+### Editorial Operations Metrics
 
 - multilingual consistency improvements
 - editorial review efficiency
@@ -241,7 +235,7 @@ The system validates:
 
 ---
 
-# Scalability Thinking
+## Scalability Thinking
 
 This system builds upon:
 
