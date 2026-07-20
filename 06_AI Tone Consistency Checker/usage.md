@@ -1,9 +1,10 @@
-# AI Tone Consistency Checker Usage Guides
+# AI Tone Consistency Checker Usage Guide
 
 ### Content Layer: AI Content Infrastructure
 
 ---
-# Purpose
+
+## Purpose
 
 This document explains how teams operationalize the AI Tone Consistency Checker.
 
@@ -19,7 +20,7 @@ The system supports:
 
 ---
 
-# When Teams Should Use This System
+## When Teams Should Use This System
 
 Use this system when:
 
@@ -33,9 +34,9 @@ Use this system when:
 
 ---
 
-# Operational Workflow
+## Operational Workflow
 
-## Step 1 — Collect Communication Samples
+### Step 1 — Collect Communication Samples
 
 Teams gather:
 
@@ -46,9 +47,8 @@ Teams gather:
 - escalation workflows
 - multilingual content
 
----
+### Step 2 — Run Tone Evaluation
 
-## Step 2 — Run Tone Evaluation
 The system evaluates:
 
 - emotional consistency
@@ -58,9 +58,7 @@ The system evaluates:
 - readability
 - localization alignment
 
----
-
-## Step 3 — Detect Behavioral Drift
+### Step 3 — Detect Behavioral Drift
 
 The system identifies:
 
@@ -70,9 +68,7 @@ The system identifies:
 - trust instability
 - multilingual drift
 
----
-
-## Step 4 — Editorial Review
+### Step 4 — Editorial Review
 
 Human reviewers validate:
 
@@ -81,9 +77,7 @@ Human reviewers validate:
 - remediation recommendations
 - escalation implications
 
----
-
-## Step 5 — Remediation & Governance Reporting
+### Step 5 — Remediation & Governance Reporting
 
 Teams:
 
@@ -94,21 +88,15 @@ Teams:
 
 ---
 
-# Collaboration Model
+## Collaboration Model
 
-| Team | Responsibility |
-|---|---|
-| Content Design | tone governance ownership |
-| AI Governance Teams | evaluation infrastructure |
-| Localization Teams | multilingual alignment |
-| Product Teams | workflow implementation |
-| Support Operations | escalation feedback |
-| Legal & Compliance | trust and policy validation |
+Team-by-team ownership for this system is defined in `system.md`'s Tone Governance Framework section — refer there for the full breakdown across Content Design, AI Governance Teams, Product Teams, Localization Teams, Support Operations, and Legal & Compliance.
 
 ---
-# Anti-Patterns
 
-## Avoid Subjective Tone Reviews
+## Anti-Patterns
+
+### Avoid Subjective Tone Reviews
 
 Bad:
 
@@ -116,17 +104,13 @@ Bad:
 
 Without measurable evaluation criteria.
 
----
-
-## Avoid AI Governance Without Human Oversight
+### Avoid AI Governance Without Human Oversight
 
 Bad:
 
 Relying solely on automated evaluation systems.
 
----
-
-## Avoid Tone Fragmentation Across Channels
+### Avoid Tone Fragmentation Across Channels
 
 Bad:
 
@@ -134,9 +118,7 @@ Bad:
 - overly casual email messaging
 - emotionally inconsistent AI assistants
 
----
-
-## Avoid Hidden AI Behavior
+### Avoid Hidden AI Behavior
 
 Bad:
 
@@ -144,7 +126,7 @@ Failing to disclose automation-driven recommendations.
 
 ---
 
-# Operational Review Checklist
+## Operational Review Checklist
 
 Before approving AI-generated communication, teams should verify:
 
@@ -157,9 +139,10 @@ Before approving AI-generated communication, teams should verify:
 
 ---
 
-# Success Indicators
+## Success Indicators
 
 The system is working effectively when:
+
 - tone consistency improves
 - AI trust complaints decrease
 - escalation clarity improves
@@ -169,7 +152,7 @@ The system is working effectively when:
 
 ---
 
-# Relationship to Other Maturity Layers
+## Relationship to Other Maturity Layers
 
 This Layer 5 system builds upon:
 
