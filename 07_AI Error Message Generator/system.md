@@ -3,7 +3,8 @@
 ### Content Layer: AI Content Infrastructure
 
 ---
-# System Purpose
+
+## System Purpose
 
 The AI Error Message Generator establishes AI-assisted infrastructure for generating scalable, trustworthy, and recovery-oriented product error messaging.
 
@@ -21,9 +22,9 @@ This system treats error messaging as operational recovery infrastructure rather
 
 ---
 
-# Governance Principles
+## Governance Principles
 
-## 1. Errors Should Support Recovery
+### 1. Errors Should Support Recovery
 
 Error messaging should:
 
@@ -33,9 +34,7 @@ Error messaging should:
 - preserve workflow continuity
 - maintain trust
 
----
-
-## 2. AI Failures Require Transparency
+### 2. AI Failures Require Transparency
 
 AI-assisted systems should:
 
@@ -44,9 +43,7 @@ AI-assisted systems should:
 - avoid misleading certainty
 - preserve user agency
 
----
-
-## 3. Severity Should Shape Messaging
+### 3. Severity Should Shape Messaging
 
 Critical failures require:
 
@@ -55,9 +52,8 @@ Critical failures require:
 - trust stabilization
 - support coordination
 
----
+### 4. Localization Must Be Built Into Error Systems
 
-## 4. Localization Must Be Built Into Error Systems
 Error structures should:
 
 - minimize translation ambiguity
@@ -67,9 +63,9 @@ Error structures should:
 
 ---
 
-# Error Architecture Framework
+## Error Architecture Framework
 
-## Core Error Components
+### Core Error Components
 
 | Component | Purpose |
 |---|---|
@@ -81,7 +77,7 @@ Error structures should:
 
 ---
 
-# Severity Framework
+## Severity Framework
 
 | Severity | Messaging Goal |
 |---|---|
@@ -92,7 +88,7 @@ Error structures should:
 
 ---
 
-# Operational Metrics
+## Operational Metrics
 
 - recovery success rate
 - support ticket reduction
