@@ -3,7 +3,8 @@
 ### Content Layer: AI Content Infrastructure
 
 ---
-# Purpose
+
+## Purpose
 
 This document explains how teams operationalize the AI Error Message Generator.
 
@@ -19,9 +20,9 @@ The system supports:
 
 ---
 
-# Operational Workflow
+## Operational Workflow
 
-## Step 1 — Error Context Collection
+### Step 1 — Error Context Collection
 
 Teams provide:
 
@@ -31,9 +32,7 @@ Teams provide:
 - user impact
 - localization constraints
 
----
-
-## Step 2 — AI Error Generation
+### Step 2 — AI Error Generation
 
 The system generates:
 
@@ -42,9 +41,7 @@ The system generates:
 - escalation recommendations
 - localization-ready structures
 
----
-
-## Step 3 — Governance Review
+### Step 3 — Governance Review
 
 Reviewers validate:
 
@@ -54,19 +51,16 @@ Reviewers validate:
 - terminology consistency
 - operational appropriateness
 
----
-
-## Step 4 — Localization Validation
+### Step 4 — Localization Validation
 
 Localization teams review:
+
 - translation ambiguity
 - multilingual consistency
 - recovery clarity
 - UI constraints
 
----
-
-## Step 5 — Production Integration
+### Step 5 — Production Integration
 
 Engineering integrates:
 
@@ -77,33 +71,27 @@ Engineering integrates:
 
 ---
 
-# Anti-Patterns
+## Anti-Patterns
 
-## Avoid Generic Failure Messages
+### Avoid Generic Failure Messages
 
 Bad:
 
 > Something went wrong.
 
----
-
-## Avoid Hidden AI Behavior
+### Avoid Hidden AI Behavior
 
 Bad:
 
 Failing to explain AI-assisted failure conditions.
 
----
-
-## Avoid Dead-End Errors
+### Avoid Dead-End Errors
 
 Bad:
 
 Error messages without recovery guidance.
 
----
-
-## Avoid Engineering-Only Messaging
+### Avoid Engineering-Only Messaging
 
 Bad:
 
@@ -111,9 +99,10 @@ Technical system language without usability consideration.
 
 ---
 
-# Success Indicators
+## Success Indicators
 
 The system is working effectively when:
+
 - recovery success improves
 - support tickets decrease
 - onboarding abandonment decreases
@@ -123,7 +112,7 @@ The system is working effectively when:
 
 ---
 
-# Relationship to Other Maturity Layers
+## Relationship to Other Maturity Layers
 
 This Layer 5 system builds upon:
 
