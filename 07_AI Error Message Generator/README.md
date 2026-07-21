@@ -3,7 +3,8 @@
 ### Content Layer: AI Content Infrastructure
 
 ---
-# Overview
+
+## Overview
 
 The AI Error Message Generator is an AI-assisted UX writing and recovery guidance system designed to generate scalable, trustworthy, and context-aware product error messaging across complex digital ecosystems.
 
@@ -22,7 +23,7 @@ The system transforms error messaging from fragmented interface copy into struct
 
 ---
 
-# Problem
+## Problem
 
 As organizations scale products and AI-assisted workflows, error messaging becomes inconsistent due to:
 
@@ -45,7 +46,7 @@ This creates:
 
 ---
 
-# What This System Does
+## What This System Does
 
 This system helps organizations:
 
@@ -59,7 +60,8 @@ This system helps organizations:
 - improve trust during failure states
 
 ---
-# Core Components
+
+## Core Components
 
 | Component | Purpose |
 |---|---|
@@ -73,7 +75,43 @@ This system helps organizations:
 
 ---
 
-# Files Included
+## Example Use Cases
+
+### Export Failure
+
+Before:
+
+> Upload failed.
+
+After:
+
+> We couldn't complete the export because the selected report exceeds the current file size limit. Reduce the export range and try again.
+
+### Hidden AI Failure
+
+Before:
+
+> Recommendation unavailable.
+
+After:
+
+> We couldn't generate recommendations because recent workflow activity is unavailable right now. Try again later or continue manually.
+
+### Enterprise Escalation
+
+Before:
+
+> System unavailable.
+
+After:
+
+> Scheduled exports are delayed for approximately 15% of EU-hosted workspaces. Existing export requests remain queued and no customer data has been lost.
+
+For the full breakdown of these and other generated messages — including the scenario, findings, and prompt applied — see `examples.md`.
+
+---
+
+## Files Included
 
 | File | Purpose |
 |---|---|
@@ -84,10 +122,10 @@ This system helps organizations:
 
 ---
 
-# Maturity Layer Positioning
+## Maturity Layer Positioning
 
 This system belongs to:
 
-## AI Content Infrastructure Layer
+### AI Content Infrastructure Layer
 
 It establishes scalable AI-assisted recovery and error communication infrastructure required for trustworthy AI-enabled product ecosystems.
