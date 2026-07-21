@@ -4,7 +4,7 @@
 
 ---
 
-# Purpose
+## Purpose
 
 These prompts operationalize AI-assisted UX writing and recovery guidance generation for product ecosystems.
 
@@ -19,7 +19,7 @@ The prompts are designed to:
 
 ---
 
-# Core Error Generation Prompt
+## Core Error Generation Prompt
 
 ```text
 You are an AI UX Writing System specialized in recovery-oriented error communication.
@@ -40,11 +40,11 @@ Return:
 2. Detailed recovery version
 3. Escalation guidance if needed
 4. Localization risk notes
-````
+```
 
 ---
 
-# AI Failure Transparency Prompt
+## AI Failure Transparency Prompt
 
 ```text
 Generate an AI-related failure message.
@@ -65,7 +65,7 @@ Return:
 
 ---
 
-# Escalation Messaging Prompt
+## Escalation Messaging Prompt
 
 ```text
 Generate an operational escalation message for a high-severity system issue.
@@ -85,7 +85,7 @@ Return:
 
 ---
 
-# Localization Validation Prompt
+## Localization Validation Prompt
 
 ```text
 Review the following error message for localization readiness.
@@ -105,33 +105,33 @@ Return:
 
 ---
 
-# Prompt Governance Rules
+## Prompt Governance Rules
 
 Prompts should:
 
-* prioritize recovery guidance
-* preserve trust stability
-* support localization scalability
-* align with accessibility standards
-* avoid vague technical language
-* maintain AI transparency
+- prioritize recovery guidance
+- preserve trust stability
+- support localization scalability
+- align with accessibility standards
+- avoid vague technical language
+- maintain AI transparency
 
 ---
 
-# Evaluation Severity Framework
+## Evaluation Severity Framework
 
-| Severity | Description                          |
-| -------- | ------------------------------------ |
-| Low      | minor workflow interruption          |
-| Moderate | recoverable operational issue        |
-| High     | major workflow disruption            |
+| Severity | Description |
+|---|---|
+| Low | minor workflow interruption |
+| Moderate | recoverable operational issue |
+| High | major workflow disruption |
 | Critical | enterprise trust or operational risk |
 
 ---
 
-# Structured Recovery Prompt Variations
+## Structured Recovery Prompt Variations
 
-## Authentication Failure
+### Authentication Failure
 
 ```text
 Generate a recovery-oriented authentication error message.
@@ -148,9 +148,7 @@ Return:
 - escalation guidance
 ```
 
----
-
-## AI Recommendation Failure
+### AI Recommendation Failure
 
 ```text
 Generate an AI recommendation failure message.
@@ -167,9 +165,7 @@ Return:
 - recovery guidance
 ```
 
----
-
-## Export Failure
+### Export Failure
 
 ```text
 Generate an export workflow error message.
@@ -188,7 +184,7 @@ Return:
 
 ---
 
-# Governance Evaluation Prompt
+## Governance Evaluation Prompt
 
 ```text
 Evaluate the following error message against organizational governance standards.
@@ -209,7 +205,7 @@ Return:
 
 ---
 
-# Localization Governance Prompt
+## Localization Governance Prompt
 
 ```text
 Review this error message for multilingual operational readiness.
@@ -229,31 +225,28 @@ Return:
 
 ---
 
-# Prompt Design Principles
+## Prompt Design Principles
 
 The prompts in this system are designed to:
 
-* reduce workflow abandonment
-* improve recovery success
-* preserve enterprise trust
-* operationalize scalable UX writing
-* align engineering and content workflows
-* support multilingual scalability
-* standardize AI-assisted recovery systems
+- reduce workflow abandonment
+- improve recovery success
+- preserve enterprise trust
+- operationalize scalable UX writing
+- align engineering and content workflows
+- support multilingual scalability
+- standardize AI-assisted recovery systems
 
 ---
 
-# Operational Usage
+## Operational Usage
 
 These prompts support:
 
-* AI-assisted UX writing
-* operational escalation workflows
-* onboarding recovery systems
-* AI transparency governance
-* localization-ready error systems
-* developer-content collaboration
-* enterprise support operations
-
-```
-```
+- AI-assisted UX writing
+- operational escalation workflows
+- onboarding recovery systems
+- AI transparency governance
+- localization-ready error systems
+- developer-content collaboration
+- enterprise support operations
